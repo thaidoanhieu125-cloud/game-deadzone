@@ -1,0 +1,3342 @@
+fileFormatVersion: 2
+guid: d6283d3e21ddbe24aa75696abe8f648b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2352715857385106423
+    second: Map4_PNG_0
+  - first:
+      213: -3159726986893221492
+    second: Map4_PNG_1
+  - first:
+      213: 4163867641380805818
+    second: Map4_PNG_2
+  - first:
+      213: 7505321820021061994
+    second: Map4_PNG_3
+  - first:
+      213: -328944029194710663
+    second: Map4_PNG_4
+  - first:
+      213: -7325720712421300788
+    second: Map4_PNG_5
+  - first:
+      213: -5357963588345451774
+    second: Map4_PNG_6
+  - first:
+      213: 6138324220553129795
+    second: Map4_PNG_7
+  - first:
+      213: 3922259972505053765
+    second: Map4_PNG_8
+  - first:
+      213: 3670460226455034797
+    second: Map4_PNG_9
+  - first:
+      213: -4138938182307515946
+    second: Map4_PNG_10
+  - first:
+      213: 3181433991700889756
+    second: Map4_PNG_11
+  - first:
+      213: -3136943893297485843
+    second: Map4_PNG_12
+  - first:
+      213: -473469864678510485
+    second: Map4_PNG_13
+  - first:
+      213: -6688408894049205171
+    second: Map4_PNG_14
+  - first:
+      213: -1125615896855572281
+    second: Map4_PNG_15
+  - first:
+      213: -2192697815004712742
+    second: Map4_PNG_16
+  - first:
+      213: 1390592778271613433
+    second: Map4_PNG_17
+  - first:
+      213: 6788121600869677514
+    second: Map4_PNG_18
+  - first:
+      213: -377117846190614182
+    second: Map4_PNG_19
+  - first:
+      213: -7319969722202703078
+    second: Map4_PNG_20
+  - first:
+      213: -3836550791715170436
+    second: Map4_PNG_21
+  - first:
+      213: -6880430097064699886
+    second: Map4_PNG_22
+  - first:
+      213: 1060359380800036145
+    second: Map4_PNG_23
+  - first:
+      213: -7772880278451020164
+    second: Map4_PNG_24
+  - first:
+      213: 1565205483221468014
+    second: Map4_PNG_25
+  - first:
+      213: -2665263821353060295
+    second: Map4_PNG_26
+  - first:
+      213: 6781887499993903061
+    second: Map4_PNG_27
+  - first:
+      213: -4700157904299841126
+    second: Map4_PNG_28
+  - first:
+      213: 123665018532406805
+    second: Map4_PNG_29
+  - first:
+      213: -3810703126282680385
+    second: Map4_PNG_30
+  - first:
+      213: -3958294196706520930
+    second: Map4_PNG_31
+  - first:
+      213: -4297712602419647214
+    second: Map4_PNG_32
+  - first:
+      213: -468562662831631070
+    second: Map4_PNG_33
+  - first:
+      213: 5421855802557030185
+    second: Map4_PNG_34
+  - first:
+      213: -9064237229467944702
+    second: Map4_PNG_35
+  - first:
+      213: -7700493036748071414
+    second: Map4_PNG_36
+  - first:
+      213: -3269774103943979960
+    second: Map4_PNG_37
+  - first:
+      213: 5460542556291550872
+    second: Map4_PNG_38
+  - first:
+      213: 5385659833716345787
+    second: Map4_PNG_39
+  - first:
+      213: -3691874474669861431
+    second: Map4_PNG_40
+  - first:
+      213: -622682261084650388
+    second: Map4_PNG_41
+  - first:
+      213: -3320680846572632672
+    second: Map4_PNG_42
+  - first:
+      213: 409314009597474476
+    second: Map4_PNG_43
+  - first:
+      213: 4015390350958866258
+    second: Map4_PNG_44
+  - first:
+      213: 3502941513715202395
+    second: Map4_PNG_45
+  - first:
+      213: 8695630168137228455
+    second: Map4_PNG_46
+  - first:
+      213: -996378659706259640
+    second: Map4_PNG_47
+  - first:
+      213: -6445167613265247414
+    second: Map4_PNG_48
+  - first:
+      213: 9040079705196437855
+    second: Map4_PNG_49
+  - first:
+      213: 2171846059545752051
+    second: Map4_PNG_50
+  - first:
+      213: 7030474372692497867
+    second: Map4_PNG_51
+  - first:
+      213: 3551147746987188435
+    second: Map4_PNG_52
+  - first:
+      213: 1996194687714198539
+    second: Map4_PNG_53
+  - first:
+      213: -2879674579891524534
+    second: Map4_PNG_54
+  - first:
+      213: -1945229511373875187
+    second: Map4_PNG_55
+  - first:
+      213: 2454635827293306114
+    second: Map4_PNG_56
+  - first:
+      213: 1603983678445779632
+    second: Map4_PNG_57
+  - first:
+      213: -6109889086451259947
+    second: Map4_PNG_58
+  - first:
+      213: 6962160877952123864
+    second: Map4_PNG_59
+  - first:
+      213: 3997873222687081120
+    second: Map4_PNG_60
+  - first:
+      213: -6592627834740916167
+    second: Map4_PNG_61
+  - first:
+      213: 1775704516101314208
+    second: Map4_PNG_62
+  - first:
+      213: 4489088435855542701
+    second: Map4_PNG_63
+  - first:
+      213: -6038612912422287260
+    second: Map4_PNG_64
+  - first:
+      213: 2362725494725718975
+    second: Map4_PNG_65
+  - first:
+      213: 1122328173848673369
+    second: Map4_PNG_66
+  - first:
+      213: 8576783679585052273
+    second: Map4_PNG_67
+  - first:
+      213: -497910019458227683
+    second: Map4_PNG_68
+  - first:
+      213: 4356868118072619278
+    second: Map4_PNG_69
+  - first:
+      213: 3481068672002519357
+    second: Map4_PNG_70
+  - first:
+      213: -5630894204712155461
+    second: Map4_PNG_71
+  - first:
+      213: 7789512478058818710
+    second: Map4_PNG_72
+  - first:
+      213: -5373554961639260020
+    second: Map4_PNG_73
+  - first:
+      213: -8043545961094885063
+    second: Map4_PNG_74
+  - first:
+      213: -4093312770518166326
+    second: Map4_PNG_75
+  - first:
+      213: -8821335171157184317
+    second: Map4_PNG_76
+  - first:
+      213: -2117489521962867520
+    second: Map4_PNG_77
+  - first:
+      213: -8754736759244808263
+    second: Map4_PNG_78
+  - first:
+      213: 3377666718989145294
+    second: Map4_PNG_79
+  - first:
+      213: -3737670886310089492
+    second: Map4_PNG_80
+  - first:
+      213: -8522487463312969534
+    second: Map4_PNG_81
+  - first:
+      213: -4980809760296227745
+    second: Map4_PNG_82
+  - first:
+      213: 1957652403397232129
+    second: Map4_PNG_83
+  - first:
+      213: 1594398129158955646
+    second: Map4_PNG_84
+  - first:
+      213: -1081297724579946242
+    second: Map4_PNG_85
+  - first:
+      213: 8948468863242935783
+    second: Map4_PNG_86
+  - first:
+      213: 5801693643527987625
+    second: Map4_PNG_87
+  - first:
+      213: 7510731145932270289
+    second: Map4_PNG_88
+  - first:
+      213: 3136011758344094731
+    second: Map4_PNG_89
+  - first:
+      213: 3520895439948816854
+    second: Map4_PNG_90
+  - first:
+      213: -5003480553160849914
+    second: Map4_PNG_91
+  - first:
+      213: 7719393264450377282
+    second: Map4_PNG_92
+  - first:
+      213: 5263508687309509764
+    second: Map4_PNG_93
+  - first:
+      213: -3714939408438756064
+    second: Map4_PNG_94
+  - first:
+      213: 2212430478738611222
+    second: Map4_PNG_95
+  - first:
+      213: 8227591260025656790
+    second: Map4_PNG_96
+  - first:
+      213: -4380708224293414279
+    second: Map4_PNG_97
+  - first:
+      213: -550628408673811553
+    second: Map4_PNG_98
+  - first:
+      213: 7226920624478105422
+    second: Map4_PNG_99
+  - first:
+      213: 6779591556561769309
+    second: Map4_PNG_100
+  - first:
+      213: -8074209283928433557
+    second: Map4_PNG_101
+  - first:
+      213: -468652186581350659
+    second: Map4_PNG_102
+  - first:
+      213: -2271706454191749738
+    second: Map4_PNG_103
+  - first:
+      213: -7304568355777428315
+    second: Map4_PNG_104
+  - first:
+      213: 7782524016615319135
+    second: Map4_PNG_105
+  - first:
+      213: 9199416058275161320
+    second: Map4_PNG_106
+  - first:
+      213: -962673060210898645
+    second: Map4_PNG_107
+  - first:
+      213: 430460612216378447
+    second: Map4_PNG_108
+  - first:
+      213: -5539850041519741157
+    second: Map4_PNG_109
+  - first:
+      213: -3020951994367793531
+    second: Map4_PNG_110
+  - first:
+      213: 3051955276761486341
+    second: Map4_PNG_111
+  - first:
+      213: 630320060027983466
+    second: Map4_PNG_112
+  - first:
+      213: -2178436832436364109
+    second: Map4_PNG_113
+  - first:
+      213: -3985763130349391898
+    second: Map4_PNG_114
+  - first:
+      213: 4375618851502812012
+    second: Map4_PNG_115
+  - first:
+      213: 2219455516015248419
+    second: Map4_PNG_116
+  - first:
+      213: 2022106759808834649
+    second: Map4_PNG_117
+  - first:
+      213: 21129514675538896
+    second: Map4_PNG_118
+  - first:
+      213: -1087777770647125460
+    second: Map4_PNG_119
+  - first:
+      213: 25334637358983183
+    second: Map4_PNG_120
+  - first:
+      213: -6731646378126584224
+    second: Map4_PNG_121
+  - first:
+      213: -4402351183232237132
+    second: Map4_PNG_122
+  - first:
+      213: 8312650951965521455
+    second: Map4_PNG_123
+  - first:
+      213: 237893438794781650
+    second: Map4_PNG_124
+  - first:
+      213: 8391018366715838682
+    second: Map4_PNG_125
+  - first:
+      213: 9148971498483507892
+    second: Map4_PNG_126
+  - first:
+      213: 1170422027330957443
+    second: Map4_PNG_127
+  - first:
+      213: 7663373890963985987
+    second: Map4_PNG_128
+  - first:
+      213: 5515095660496936391
+    second: Map4_PNG_129
+  - first:
+      213: -7294698181886330138
+    second: Map4_PNG_130
+  - first:
+      213: 5343260700920016434
+    second: Map4_PNG_131
+  - first:
+      213: -4264540217020218578
+    second: Map4_PNG_132
+  - first:
+      213: 959888718377686525
+    second: Map4_PNG_133
+  - first:
+      213: -7567586760637490732
+    second: Map4_PNG_134
+  - first:
+      213: 8586757001789642498
+    second: Map4_PNG_135
+  - first:
+      213: 5073338936881459633
+    second: Map4_PNG_136
+  - first:
+      213: 5997235833744988051
+    second: Map4_PNG_137
+  - first:
+      213: -7796327187137190206
+    second: Map4_PNG_138
+  - first:
+      213: -187778302948105252
+    second: Map4_PNG_139
+  - first:
+      213: 7323940069417844257
+    second: Map4_PNG_140
+  - first:
+      213: -5441889011532541783
+    second: Map4_PNG_141
+  - first:
+      213: 6224243342005454938
+    second: Map4_PNG_142
+  - first:
+      213: -2863607844846693983
+    second: Map4_PNG_143
+  - first:
+      213: -1027123927634492277
+    second: Map4_PNG_144
+  - first:
+      213: -6006794433329536092
+    second: Map4_PNG_145
+  - first:
+      213: -345592174678951238
+    second: Map4_PNG_146
+  - first:
+      213: -7516007933141867939
+    second: Map4_PNG_147
+  - first:
+      213: 31914737731599139
+    second: Map4_PNG_148
+  - first:
+      213: 1823691756548491629
+    second: Map4_PNG_149
+  - first:
+      213: 3076313361701317641
+    second: Map4_PNG_150
+  - first:
+      213: 3740019608917458931
+    second: Map4_PNG_151
+  - first:
+      213: -4136812797488398738
+    second: Map4_PNG_152
+  - first:
+      213: -571879957136840905
+    second: Map4_PNG_153
+  - first:
+      213: -8511777918384225520
+    second: Map4_PNG_154
+  - first:
+      213: -6043430054617523088
+    second: Map4_PNG_155
+  - first:
+      213: -5073870071631288820
+    second: Map4_PNG_156
+  - first:
+      213: -2392120909866404983
+    second: Map4_PNG_157
+  - first:
+      213: 6769990329475205603
+    second: Map4_PNG_158
+  - first:
+      213: 2439799066721877884
+    second: Map4_PNG_159
+  - first:
+      213: -8801712852279654269
+    second: Map4_PNG_160
+  - first:
+      213: -3396190497988367593
+    second: Map4_PNG_161
+  - first:
+      213: 6290392389524130221
+    second: Map4_PNG_162
+  - first:
+      213: -6993044949805458857
+    second: Map4_PNG_163
+  - first:
+      213: 4880940178809965083
+    second: Map4_PNG_164
+  - first:
+      213: -1609397653305674057
+    second: Map4_PNG_165
+  - first:
+      213: -5867507765144103125
+    second: Map4_PNG_166
+  - first:
+      213: 3529672395868702044
+    second: Map4_PNG_167
+  - first:
+      213: -6896581790827588947
+    second: Map4_PNG_168
+  - first:
+      213: 1188246994805977909
+    second: Map4_PNG_169
+  - first:
+      213: -3692183942144206814
+    second: Map4_PNG_170
+  - first:
+      213: -8609709040900342163
+    second: Map4_PNG_171
+  - first:
+      213: -4665191784765408664
+    second: Map4_PNG_172
+  - first:
+      213: 6800710550931649485
+    second: Map4_PNG_173
+  - first:
+      213: 949676869881793097
+    second: Map4_PNG_174
+  - first:
+      213: -9114522303866396791
+    second: Map4_PNG_175
+  - first:
+      213: -8876044557577500099
+    second: Map4_PNG_176
+  - first:
+      213: 660721583875344029
+    second: Map4_PNG_177
+  - first:
+      213: -9012585799022546441
+    second: Map4_PNG_178
+  - first:
+      213: 6087358098983478435
+    second: Map4_PNG_179
+  - first:
+      213: 6801089773870026509
+    second: Map4_PNG_180
+  - first:
+      213: -6192816615316780428
+    second: Map4_PNG_181
+  - first:
+      213: -7377303272700513143
+    second: Map4_PNG_182
+  - first:
+      213: 6898256320178238053
+    second: Map4_PNG_183
+  - first:
+      213: -5311553803544830141
+    second: Map4_PNG_184
+  - first:
+      213: 1151815560776578718
+    second: Map4_PNG_185
+  - first:
+      213: 5024829599454827734
+    second: Map4_PNG_186
+  - first:
+      213: -7640943239543970883
+    second: Map4_PNG_187
+  - first:
+      213: 3804302183599998381
+    second: Map4_PNG_188
+  - first:
+      213: 1816677226803212087
+    second: Map4_PNG_189
+  - first:
+      213: -1654634896193471395
+    second: Map4_PNG_190
+  - first:
+      213: -6600757833726583516
+    second: Map4_PNG_191
+  - first:
+      213: 5688552149222239003
+    second: Map4_PNG_192
+  - first:
+      213: 6398258478401317266
+    second: Map4_PNG_193
+  - first:
+      213: 5050758812733446015
+    second: Map4_PNG_194
+  - first:
+      213: 2913116206397881335
+    second: Map4_PNG_195
+  - first:
+      213: 2723306195510002031
+    second: Map4_PNG_196
+  - first:
+      213: 3904441797566195567
+    second: Map4_PNG_197
+  - first:
+      213: 496826155797897943
+    second: Map4_PNG_198
+  - first:
+      213: 8295947926592855396
+    second: Map4_PNG_199
+  - first:
+      213: 6524623878843135323
+    second: Map4_PNG_200
+  - first:
+      213: -2052395981438876803
+    second: Map4_PNG_201
+  - first:
+      213: -4051200123289305080
+    second: Map4_PNG_202
+  - first:
+      213: 8647195085961213711
+    second: Map4_PNG_203
+  - first:
+      213: -3933809684904775041
+    second: Map4_PNG_204
+  - first:
+      213: 5632995657509354460
+    second: Map4_PNG_205
+  - first:
+      213: 6846752167008070860
+    second: Map4_PNG_206
+  - first:
+      213: 1438083849554874978
+    second: Map4_PNG_207
+  - first:
+      213: 3774477217320411242
+    second: Map4_PNG_208
+  - first:
+      213: 7232888131665172195
+    second: Map4_PNG_209
+  - first:
+      213: -5333988190186300282
+    second: Map4_PNG_210
+  - first:
+      213: 3942079447548421556
+    second: Map4_PNG_211
+  - first:
+      213: -1468668869393608580
+    second: Map4_PNG_212
+  - first:
+      213: -5374020600329348360
+    second: Map4_PNG_213
+  - first:
+      213: -3620264193171293352
+    second: Map4_PNG_214
+  - first:
+      213: 6844054359522495514
+    second: Map4_PNG_215
+  - first:
+      213: 3625854764502263430
+    second: Map4_PNG_216
+  - first:
+      213: 8458130088499238321
+    second: Map4_PNG_217
+  - first:
+      213: 5391747399169764167
+    second: Map4_PNG_218
+  - first:
+      213: 4098886419942600215
+    second: Map4_PNG_219
+  - first:
+      213: 890213435473587306
+    second: Map4_PNG_220
+  - first:
+      213: -6864171501212148134
+    second: Map4_PNG_221
+  - first:
+      213: 8983325189696635966
+    second: Map4_PNG_222
+  - first:
+      213: 6991834852614868665
+    second: Map4_PNG_223
+  - first:
+      213: 7370481720155002285
+    second: Map4_PNG_224
+  - first:
+      213: -3884083882956864227
+    second: Map4_PNG_225
+  - first:
+      213: 3102420623982103248
+    second: Map4_PNG_226
+  - first:
+      213: -6266154651318713048
+    second: Map4_PNG_227
+  - first:
+      213: 2177776002942619698
+    second: Map4_PNG_228
+  - first:
+      213: -2627662672578528081
+    second: Map4_PNG_229
+  - first:
+      213: 5451777150192637425
+    second: Map4_PNG_230
+  - first:
+      213: -1882518488642720796
+    second: Map4_PNG_231
+  - first:
+      213: 6509156141425012947
+    second: Map4_PNG_232
+  - first:
+      213: -7125269696317916835
+    second: Map4_PNG_233
+  - first:
+      213: -6007857499900482092
+    second: Map4_PNG_234
+  - first:
+      213: -4331830349432638798
+    second: Map4_PNG_235
+  - first:
+      213: -3633020324723744721
+    second: Map4_PNG_236
+  - first:
+      213: 5649517472796358965
+    second: Map4_PNG_237
+  - first:
+      213: 8861380881024793166
+    second: Map4_PNG_238
+  - first:
+      213: -319550286553248345
+    second: Map4_PNG_239
+  - first:
+      213: -8782770759295449577
+    second: Map4_PNG_240
+  - first:
+      213: -5685560704852662932
+    second: Map4_PNG_241
+  - first:
+      213: 828401635333824660
+    second: Map4_PNG_242
+  - first:
+      213: 5348181061943218568
+    second: Map4_PNG_243
+  - first:
+      213: -2510518870115595458
+    second: Map4_PNG_244
+  - first:
+      213: -2954338036379200377
+    second: Map4_PNG_245
+  - first:
+      213: 8129044093878956527
+    second: Map4_PNG_246
+  - first:
+      213: -2262619558213382312
+    second: Map4_PNG_247
+  - first:
+      213: -4943168607202501153
+    second: Map4_PNG_248
+  - first:
+      213: 7940439476968366774
+    second: Map4_PNG_249
+  - first:
+      213: 4418199543866759410
+    second: Map4_PNG_250
+  - first:
+      213: 5625667028067793253
+    second: Map4_PNG_251
+  - first:
+      213: -5725401144216732941
+    second: Map4_PNG_252
+  - first:
+      213: 6165341882001938092
+    second: Map4_PNG_253
+  - first:
+      213: -4942109310030358646
+    second: Map4_PNG_254
+  - first:
+      213: 5658879327397167956
+    second: Map4_PNG_255
+  - first:
+      213: -5003786739748337497
+    second: Map4_PNG_256
+  - first:
+      213: 5323472150821743880
+    second: Map4_PNG_257
+  - first:
+      213: 3047205823158111338
+    second: Map4_PNG_258
+  - first:
+      213: -8948403856005655460
+    second: Map4_PNG_259
+  - first:
+      213: -6917297403173754931
+    second: Map4_PNG_260
+  - first:
+      213: 6656111927251634406
+    second: Map4_PNG_261
+  - first:
+      213: -4438249423648483393
+    second: Map4_PNG_262
+  - first:
+      213: 3616052195945595215
+    second: Map4_PNG_263
+  - first:
+      213: -954068918158038468
+    second: Map4_PNG_264
+  - first:
+      213: -7807772837031156174
+    second: Map4_PNG_265
+  - first:
+      213: -716042532027315067
+    second: Map4_PNG_266
+  - first:
+      213: -7417371717714094873
+    second: Map4_PNG_267
+  - first:
+      213: -6166035607155093335
+    second: Map4_PNG_268
+  - first:
+      213: -6825820248394122119
+    second: Map4_PNG_269
+  - first:
+      213: -3333746768995975689
+    second: Map4_PNG_270
+  - first:
+      213: 3080943351620725677
+    second: Map4_PNG_271
+  - first:
+      213: 4545364541654400645
+    second: Map4_PNG_272
+  - first:
+      213: -105399229148125561
+    second: Map4_PNG_273
+  - first:
+      213: 3076229105183444958
+    second: Map4_PNG_274
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 58
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map4_PNG_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1148
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d1279469795fd0800000000000000
+      internalID: -2352715857385106423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_118
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 484
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db03808e211b4000800000000000000
+      internalID: 21129514675538896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_120
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 484
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ab4ce7b10a5000800000000000000
+      internalID: 25334637358983183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_121
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 491
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066583ee8436492a0800000000000000
+      internalID: -6731646378126584224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_122
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 483
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b10cea6ce4b7e2c0800000000000000
+      internalID: -4402351183232237132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_136
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 485
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13af522ee186640800000000000000
+      internalID: 5073338936881459633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_141
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 403
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05080c6c68a74b0800000000000000
+      internalID: -5441889011532541783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_143
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 397
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a114ef46db6248d0800000000000000
+      internalID: -2863607844846693983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_144
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 403
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ca01da3ceeb1f0800000000000000
+      internalID: -1027123927634492277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_145
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 406
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3699ac94493aca0800000000000000
+      internalID: -6006794433329536092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_146
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 403
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3b178fb5343bf0800000000000000
+      internalID: -345592174678951238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_153
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73761bc75364018f0800000000000000
+      internalID: -571879957136840905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_154
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c1bf941710e980800000000000000
+      internalID: -8511777918384225520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_155
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 277
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c5a91826c612ca0800000000000000
+      internalID: -6043430054617523088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_156
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 277
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066ee76d0ef599b0800000000000000
+      internalID: -5073870071631288820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_157
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 277
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f0abd4ba7dced0800000000000000
+      internalID: -2392120909866404983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_158
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 277
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90331f556d3fd50800000000000000
+      internalID: 6769990329475205603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_159
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 277
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f79471358ebd120800000000000000
+      internalID: 2439799066721877884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_170
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 294
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d713444ab2ccc0800000000000000
+      internalID: -3692183942144206814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_171
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 294
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7aa55e3b248880800000000000000
+      internalID: -8609709040900342163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_172
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86abcfbf9c8e14fb0800000000000000
+      internalID: -4665191784765408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_174
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1148
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a85b0e41eed2d00800000000000000
+      internalID: 949676869881793097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 204
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1ba46146b28180800000000000000
+      internalID: -9114522303866396791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_176
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 206
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3acd0f8084f1d480800000000000000
+      internalID: -8876044557577500099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_177
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 206
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c256a7ca5b2900800000000000000
+      internalID: 660721583875344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_178
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1f78d67fcdce280800000000000000
+      internalID: -9012585799022546441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_179
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 206
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e18650f3aa7450800000000000000
+      internalID: 6087358098983478435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_180
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 206
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f80199d13526e50800000000000000
+      internalID: 6801089773870026509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_182
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1148
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984fb5692cd8e9990800000000000000
+      internalID: -7377303272700513143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_183
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1149
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56231dd13978bbf50800000000000000
+      internalID: 6898256320178238053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1148
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd55e15f19946b0800000000000000
+      internalID: -5311553803544830141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_190
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1149
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3c6b145e8909e0800000000000000
+      internalID: -1654634896193471395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_194
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1149
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77962f4166e71640800000000000000
+      internalID: 5050758812733446015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_195
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1149
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb77cf51c77d6820800000000000000
+      internalID: 2913116206397881335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_196
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1080
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618efd5e802bc520800000000000000
+      internalID: 2723306195510002031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_197
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1080
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ee16d02d5f2630800000000000000
+      internalID: 3904441797566195567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_198
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1079
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2e473a1c415e600800000000000000
+      internalID: 496826155797897943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1078
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55f97f49de1c8a50800000000000000
+      internalID: 6524623878843135323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_201
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 222
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7385eb9abc6483e0800000000000000
+      internalID: -2052395981438876803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_202
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 227
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8008259b3fe37c7c0800000000000000
+      internalID: -4051200123289305080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_203
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 210
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07b83aad12010870800000000000000
+      internalID: 8647195085961213711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_204
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1078
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72724d0fec4869c0800000000000000
+      internalID: -3933809684904775041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_205
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1077
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb923a4bb6c2e40800000000000000
+      internalID: 5632995657509354460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_206
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1077
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce6abf1dc840f50800000000000000
+      internalID: 6846752167008070860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_207
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1011
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262d1f154a915f310800000000000000
+      internalID: 1438083849554874978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_208
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 135
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a602037f703a16430800000000000000
+      internalID: 3774477217320411242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_209
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 136
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e69a0c2f61606460800000000000000
+      internalID: 7232888131665172195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c11df600ed9f5b0800000000000000
+      internalID: -5333988190186300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_211
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5ed7b1f5415b630800000000000000
+      internalID: 3942079447548421556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_212
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 135
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c709e13d17d3e9be0800000000000000
+      internalID: -1468668869393608580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_224
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1011
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55951f216394660800000000000000
+      internalID: 7370481720155002285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_225
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 143
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1549868946f81ac0800000000000000
+      internalID: -3884083882956864227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_226
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1010
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da8c44ce130e0b20800000000000000
+      internalID: 3102420623982103248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_227
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1010
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8258c7c4b852a09a0800000000000000
+      internalID: -6266154651318713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_228
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1009
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d3cf7cb3093e10800000000000000
+      internalID: 2177776002942619698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_229
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1010
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac3763a8baa88bd0800000000000000
+      internalID: -2627662672578528081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_230
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1010
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5d2dfee6a98ab40800000000000000
+      internalID: 5451777150192637425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_231
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 943
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb68599863ffd5e0800000000000000
+      internalID: -1882518488642720796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_232
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 145
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b03d060b255a50800000000000000
+      internalID: 6509156141425012947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_233
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 144
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597d1666f4fd1d90800000000000000
+      internalID: -7125269696317916835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_234
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 145
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde3415f6dcf9ca0800000000000000
+      internalID: -6007857499900482092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_235
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 941
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2bfca8f3f32e3c0800000000000000
+      internalID: -4331830349432638798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_236
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 942
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f202113634be49dc0800000000000000
+      internalID: -3633020324723744721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_237
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 941
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b366853e176e40800000000000000
+      internalID: 5649517472796358965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_238
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4abbe036f2f9fa70800000000000000
+      internalID: 8861380881024793166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_239
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 55
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad8e1a15bab09bf0800000000000000
+      internalID: -319550286553248345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_240
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 941
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c18c07845d1680800000000000000
+      internalID: -8782770759295449577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_241
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65665e89a4d811b0800000000000000
+      internalID: -5685560704852662932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_242
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 941
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490ec65f5e21f7b00800000000000000
+      internalID: 828401635333824660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_243
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 55
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d897075e883a40800000000000000
+      internalID: 5348181061943218568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_244
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 56
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b48d09368d82dd0800000000000000
+      internalID: -2510518870115595458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_245
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 49
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784513b65351007d0800000000000000
+      internalID: -2954338036379200377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_246
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 941
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1742ba88a20d070800000000000000
+      internalID: 8129044093878956527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_255
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 84
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534f4824c0688e40800000000000000
+      internalID: 5658879327397167956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_256
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 83
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a88d7da87afe8ab0800000000000000
+      internalID: -5003786739748337497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_257
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 93
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d2a6957b5c0e940800000000000000
+      internalID: 5323472150821743880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_258
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 93
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c47d62d89d94a20800000000000000
+      internalID: 3047205823158111338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_259
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 872
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541c088a12e0d380800000000000000
+      internalID: -8948403856005655460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_260
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 872
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a81649a2d000a0800000000000000
+      internalID: -6917297403173754931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_261
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 872
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8031148824f5c50800000000000000
+      internalID: 6656111927251634406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_262
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 872
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb799def9ab2862c0800000000000000
+      internalID: -4438249423648483393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_263
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 873
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41cb94405cce2230800000000000000
+      internalID: 3616052195945595215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_264
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 873
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ae2f1bf5772c2f0800000000000000
+      internalID: -954068918158038468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_265
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 873
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23660d9d8f735a390800000000000000
+      internalID: -7807772837031156174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_266
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cc0726c1b1016f0800000000000000
+      internalID: -716042532027315067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_267
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45f9eb8b3301990800000000000000
+      internalID: -7417371717714094873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_268
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 50
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05c1bc847dd6aa0800000000000000
+      internalID: -6166035607155093335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_269
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 22
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbcc916a0d541a0800000000000000
+      internalID: -6825820248394122119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_270
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd73eef9f62cb1d0800000000000000
+      internalID: -3333746768995975689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_271
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab647e97a5b1ca20800000000000000
+      internalID: 3080943351620725677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_272
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 806
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e77ffd7f0641f30800000000000000
+      internalID: 4545364541654400645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_273
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 51
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a603a5fb898ef0800000000000000
+      internalID: -105399229148125561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_274
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 51
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf4d269216f0ba20800000000000000
+      internalID: 3076229105183444958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_284
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 804
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0b12da3e7265447b88de73f318a7d7
+      internalID: -201798036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_285
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 804
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32289bccefa6eaa42bd2458825a589c2
+      internalID: -1743862343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map4_PNG_286
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 804
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01167ba8fe787cc408e051b464ced6f0
+      internalID: 1956916305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48b062065620ac7469b5b9f8d5756014
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Map4_PNG_0: -2352715857385106423
+      Map4_PNG_1: -3159726986893221492
+      Map4_PNG_10: -4138938182307515946
+      Map4_PNG_100: 6779591556561769309
+      Map4_PNG_101: -8074209283928433557
+      Map4_PNG_102: -468652186581350659
+      Map4_PNG_103: -2271706454191749738
+      Map4_PNG_104: -7304568355777428315
+      Map4_PNG_105: 7782524016615319135
+      Map4_PNG_106: 9199416058275161320
+      Map4_PNG_107: -962673060210898645
+      Map4_PNG_108: 430460612216378447
+      Map4_PNG_109: -5539850041519741157
+      Map4_PNG_11: 3181433991700889756
+      Map4_PNG_110: -3020951994367793531
+      Map4_PNG_111: 3051955276761486341
+      Map4_PNG_112: 630320060027983466
+      Map4_PNG_113: -2178436832436364109
+      Map4_PNG_114: -3985763130349391898
+      Map4_PNG_115: 4375618851502812012
+      Map4_PNG_116: 2219455516015248419
+      Map4_PNG_117: 2022106759808834649
+      Map4_PNG_118: 21129514675538896
+      Map4_PNG_119: -1087777770647125460
+      Map4_PNG_12: -3136943893297485843
+      Map4_PNG_120: 25334637358983183
+      Map4_PNG_121: -6731646378126584224
+      Map4_PNG_122: -4402351183232237132
+      Map4_PNG_123: 8312650951965521455
+      Map4_PNG_124: 237893438794781650
+      Map4_PNG_125: 8391018366715838682
+      Map4_PNG_126: 9148971498483507892
+      Map4_PNG_127: 1170422027330957443
+      Map4_PNG_128: 7663373890963985987
+      Map4_PNG_129: 5515095660496936391
+      Map4_PNG_13: -473469864678510485
+      Map4_PNG_130: -7294698181886330138
+      Map4_PNG_131: 5343260700920016434
+      Map4_PNG_132: -4264540217020218578
+      Map4_PNG_133: 959888718377686525
+      Map4_PNG_134: -7567586760637490732
+      Map4_PNG_135: 8586757001789642498
+      Map4_PNG_136: 5073338936881459633
+      Map4_PNG_137: 5997235833744988051
+      Map4_PNG_138: -7796327187137190206
+      Map4_PNG_139: -187778302948105252
+      Map4_PNG_14: -6688408894049205171
+      Map4_PNG_140: 7323940069417844257
+      Map4_PNG_141: -5441889011532541783
+      Map4_PNG_142: 6224243342005454938
+      Map4_PNG_143: -2863607844846693983
+      Map4_PNG_144: -1027123927634492277
+      Map4_PNG_145: -6006794433329536092
+      Map4_PNG_146: -345592174678951238
+      Map4_PNG_147: -7516007933141867939
+      Map4_PNG_148: 31914737731599139
+      Map4_PNG_149: 1823691756548491629
+      Map4_PNG_15: -1125615896855572281
+      Map4_PNG_150: 3076313361701317641
+      Map4_PNG_151: 3740019608917458931
+      Map4_PNG_152: -4136812797488398738
+      Map4_PNG_153: -571879957136840905
+      Map4_PNG_154: -8511777918384225520
+      Map4_PNG_155: -6043430054617523088
+      Map4_PNG_156: -5073870071631288820
+      Map4_PNG_157: -2392120909866404983
+      Map4_PNG_158: 6769990329475205603
+      Map4_PNG_159: 2439799066721877884
+      Map4_PNG_16: -2192697815004712742
+      Map4_PNG_160: -8801712852279654269
+      Map4_PNG_161: -3396190497988367593
+      Map4_PNG_162: 6290392389524130221
+      Map4_PNG_163: -6993044949805458857
+      Map4_PNG_164: 4880940178809965083
+      Map4_PNG_165: -1609397653305674057
+      Map4_PNG_166: -5867507765144103125
+      Map4_PNG_167: 3529672395868702044
+      Map4_PNG_168: -6896581790827588947
+      Map4_PNG_169: 1188246994805977909
+      Map4_PNG_17: 1390592778271613433
+      Map4_PNG_170: -3692183942144206814
+      Map4_PNG_171: -8609709040900342163
+      Map4_PNG_172: -4665191784765408664
+      Map4_PNG_173: 6800710550931649485
+      Map4_PNG_174: 949676869881793097
+      Map4_PNG_175: -9114522303866396791
+      Map4_PNG_176: -8876044557577500099
+      Map4_PNG_177: 660721583875344029
+      Map4_PNG_178: -9012585799022546441
+      Map4_PNG_179: 6087358098983478435
+      Map4_PNG_18: 6788121600869677514
+      Map4_PNG_180: 6801089773870026509
+      Map4_PNG_181: -6192816615316780428
+      Map4_PNG_182: -7377303272700513143
+      Map4_PNG_183: 6898256320178238053
+      Map4_PNG_184: -5311553803544830141
+      Map4_PNG_185: 1151815560776578718
+      Map4_PNG_186: 5024829599454827734
+      Map4_PNG_187: -7640943239543970883
+      Map4_PNG_188: 3804302183599998381
+      Map4_PNG_189: 1816677226803212087
+      Map4_PNG_19: -377117846190614182
+      Map4_PNG_190: -1654634896193471395
+      Map4_PNG_191: -6600757833726583516
+      Map4_PNG_192: 5688552149222239003
+      Map4_PNG_193: 6398258478401317266
+      Map4_PNG_194: 5050758812733446015
+      Map4_PNG_195: 2913116206397881335
+      Map4_PNG_196: 2723306195510002031
+      Map4_PNG_197: 3904441797566195567
+      Map4_PNG_198: 496826155797897943
+      Map4_PNG_199: 8295947926592855396
+      Map4_PNG_2: 4163867641380805818
+      Map4_PNG_20: -7319969722202703078
+      Map4_PNG_200: 6524623878843135323
+      Map4_PNG_201: -2052395981438876803
+      Map4_PNG_202: -4051200123289305080
+      Map4_PNG_203: 8647195085961213711
+      Map4_PNG_204: -3933809684904775041
+      Map4_PNG_205: 5632995657509354460
+      Map4_PNG_206: 6846752167008070860
+      Map4_PNG_207: 1438083849554874978
+      Map4_PNG_208: 3774477217320411242
+      Map4_PNG_209: 7232888131665172195
+      Map4_PNG_21: -3836550791715170436
+      Map4_PNG_210: -5333988190186300282
+      Map4_PNG_211: 3942079447548421556
+      Map4_PNG_212: -1468668869393608580
+      Map4_PNG_213: -5374020600329348360
+      Map4_PNG_214: -3620264193171293352
+      Map4_PNG_215: 6844054359522495514
+      Map4_PNG_216: 3625854764502263430
+      Map4_PNG_217: 8458130088499238321
+      Map4_PNG_218: 5391747399169764167
+      Map4_PNG_219: 4098886419942600215
+      Map4_PNG_22: -6880430097064699886
+      Map4_PNG_220: 890213435473587306
+      Map4_PNG_221: -6864171501212148134
+      Map4_PNG_222: 8983325189696635966
+      Map4_PNG_223: 6991834852614868665
+      Map4_PNG_224: 7370481720155002285
+      Map4_PNG_225: -3884083882956864227
+      Map4_PNG_226: 3102420623982103248
+      Map4_PNG_227: -6266154651318713048
+      Map4_PNG_228: 2177776002942619698
+      Map4_PNG_229: -2627662672578528081
+      Map4_PNG_23: 1060359380800036145
+      Map4_PNG_230: 5451777150192637425
+      Map4_PNG_231: -1882518488642720796
+      Map4_PNG_232: 6509156141425012947
+      Map4_PNG_233: -7125269696317916835
+      Map4_PNG_234: -6007857499900482092
+      Map4_PNG_235: -4331830349432638798
+      Map4_PNG_236: -3633020324723744721
+      Map4_PNG_237: 5649517472796358965
+      Map4_PNG_238: 8861380881024793166
+      Map4_PNG_239: -319550286553248345
+      Map4_PNG_24: -7772880278451020164
+      Map4_PNG_240: -8782770759295449577
+      Map4_PNG_241: -5685560704852662932
+      Map4_PNG_242: 828401635333824660
+      Map4_PNG_243: 5348181061943218568
+      Map4_PNG_244: -2510518870115595458
+      Map4_PNG_245: -2954338036379200377
+      Map4_PNG_246: 8129044093878956527
+      Map4_PNG_247: -2262619558213382312
+      Map4_PNG_248: -4943168607202501153
+      Map4_PNG_249: 7940439476968366774
+      Map4_PNG_25: 1565205483221468014
+      Map4_PNG_250: 4418199543866759410
+      Map4_PNG_251: 5625667028067793253
+      Map4_PNG_252: -5725401144216732941
+      Map4_PNG_253: 6165341882001938092
+      Map4_PNG_254: -4942109310030358646
+      Map4_PNG_255: 5658879327397167956
+      Map4_PNG_256: -5003786739748337497
+      Map4_PNG_257: 5323472150821743880
+      Map4_PNG_258: 3047205823158111338
+      Map4_PNG_259: -8948403856005655460
+      Map4_PNG_26: -2665263821353060295
+      Map4_PNG_260: -6917297403173754931
+      Map4_PNG_261: 6656111927251634406
+      Map4_PNG_262: -4438249423648483393
+      Map4_PNG_263: 3616052195945595215
+      Map4_PNG_264: -954068918158038468
+      Map4_PNG_265: -7807772837031156174
+      Map4_PNG_266: -716042532027315067
+      Map4_PNG_267: -7417371717714094873
+      Map4_PNG_268: -6166035607155093335
+      Map4_PNG_269: -6825820248394122119
+      Map4_PNG_27: 6781887499993903061
+      Map4_PNG_270: -3333746768995975689
+      Map4_PNG_271: 3080943351620725677
+      Map4_PNG_272: 4545364541654400645
+      Map4_PNG_273: -105399229148125561
+      Map4_PNG_274: 3076229105183444958
+      Map4_PNG_275: 805977578
+      Map4_PNG_276: -433291461
+      Map4_PNG_277: -1776048017
+      Map4_PNG_278: -582312242
+      Map4_PNG_279: 637869186
+      Map4_PNG_28: -4700157904299841126
+      Map4_PNG_280: -2054572317
+      Map4_PNG_281: -696981855
+      Map4_PNG_282: 1964876863
+      Map4_PNG_283: -2130775896
+      Map4_PNG_284: -201798036
+      Map4_PNG_285: -1743862343
+      Map4_PNG_286: 1956916305
+      Map4_PNG_29: 123665018532406805
+      Map4_PNG_3: 7505321820021061994
+      Map4_PNG_30: -3810703126282680385
+      Map4_PNG_31: -3958294196706520930
+      Map4_PNG_32: -4297712602419647214
+      Map4_PNG_33: -468562662831631070
+      Map4_PNG_34: 5421855802557030185
+      Map4_PNG_35: -9064237229467944702
+      Map4_PNG_36: -7700493036748071414
+      Map4_PNG_37: -3269774103943979960
+      Map4_PNG_38: 5460542556291550872
+      Map4_PNG_39: 5385659833716345787
+      Map4_PNG_4: -328944029194710663
+      Map4_PNG_40: -3691874474669861431
+      Map4_PNG_41: -622682261084650388
+      Map4_PNG_42: -3320680846572632672
+      Map4_PNG_43: 409314009597474476
+      Map4_PNG_44: 4015390350958866258
+      Map4_PNG_45: 3502941513715202395
+      Map4_PNG_46: 8695630168137228455
+      Map4_PNG_47: -996378659706259640
+      Map4_PNG_48: -6445167613265247414
+      Map4_PNG_49: 9040079705196437855
+      Map4_PNG_5: -7325720712421300788
+      Map4_PNG_50: 2171846059545752051
+      Map4_PNG_51: 7030474372692497867
+      Map4_PNG_52: 3551147746987188435
+      Map4_PNG_53: 1996194687714198539
+      Map4_PNG_54: -2879674579891524534
+      Map4_PNG_55: -1945229511373875187
+      Map4_PNG_56: 2454635827293306114
+      Map4_PNG_57: 1603983678445779632
+      Map4_PNG_58: -6109889086451259947
+      Map4_PNG_59: 6962160877952123864
+      Map4_PNG_6: -5357963588345451774
+      Map4_PNG_60: 3997873222687081120
+      Map4_PNG_61: -6592627834740916167
+      Map4_PNG_62: 1775704516101314208
+      Map4_PNG_63: 4489088435855542701
+      Map4_PNG_64: -6038612912422287260
+      Map4_PNG_65: 2362725494725718975
+      Map4_PNG_66: 1122328173848673369
+      Map4_PNG_67: 8576783679585052273
+      Map4_PNG_68: -497910019458227683
+      Map4_PNG_69: 4356868118072619278
+      Map4_PNG_7: 6138324220553129795
+      Map4_PNG_70: 3481068672002519357
+      Map4_PNG_71: -5630894204712155461
+      Map4_PNG_72: 7789512478058818710
+      Map4_PNG_73: -5373554961639260020
+      Map4_PNG_74: -8043545961094885063
+      Map4_PNG_75: -4093312770518166326
+      Map4_PNG_76: -8821335171157184317
+      Map4_PNG_77: -2117489521962867520
+      Map4_PNG_78: -8754736759244808263
+      Map4_PNG_79: 3377666718989145294
+      Map4_PNG_8: 3922259972505053765
+      Map4_PNG_80: -3737670886310089492
+      Map4_PNG_81: -8522487463312969534
+      Map4_PNG_82: -4980809760296227745
+      Map4_PNG_83: 1957652403397232129
+      Map4_PNG_84: 1594398129158955646
+      Map4_PNG_85: -1081297724579946242
+      Map4_PNG_86: 8948468863242935783
+      Map4_PNG_87: 5801693643527987625
+      Map4_PNG_88: 7510731145932270289
+      Map4_PNG_89: 3136011758344094731
+      Map4_PNG_9: 3670460226455034797
+      Map4_PNG_90: 3520895439948816854
+      Map4_PNG_91: -5003480553160849914
+      Map4_PNG_92: 7719393264450377282
+      Map4_PNG_93: 5263508687309509764
+      Map4_PNG_94: -3714939408438756064
+      Map4_PNG_95: 2212430478738611222
+      Map4_PNG_96: 8227591260025656790
+      Map4_PNG_97: -4380708224293414279
+      Map4_PNG_98: -550628408673811553
+      Map4_PNG_99: 7226920624478105422
+      Wall1_0: 1298634685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
