@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wall
+  - Zombie
+  - Enemy
+  - MenuPause
+  - AmmoBox
+  - MenuGame
+  - Lab
+  - Props
+  - Health
+  - Gold
+  - AmmoBox
+  - MenuGame
+  - MenuPause
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - Zombie
+  - Lab
+  - Props
+  - Bullet
+  - Health
+  - AmmoBox
+  - Gold
+  - 
+  - Zombie
+  - 
+  - Camera Confider
+  - 
+  - 
+  - Enemy
+  - Wall
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1695395067
+    locked: 0
+  - name: Ground
+    uniqueID: 430322965
+    locked: 0
+  - name: Player
+    uniqueID: 383875041
+    locked: 0
+  - name: Effects
+    uniqueID: 1426478869
+    locked: 0
+  - name: UI
+    uniqueID: 1794301143
+    locked: 0
+  m_RenderingLayers:
+  - Default
