@@ -1,0 +1,6983 @@
+fileFormatVersion: 2
+guid: 212bdbce29fa894498866a36aaf5ddb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4612661360628830974
+    second: Map3_PNG_0
+  - first:
+      213: 1507661051054870321
+    second: Map3_PNG_1
+  - first:
+      213: -3505959310267639003
+    second: Map3_PNG_2
+  - first:
+      213: 4317695936871616920
+    second: Map3_PNG_3
+  - first:
+      213: 5324652465846766735
+    second: Map3_PNG_4
+  - first:
+      213: 8382738694527613699
+    second: Map3_PNG_5
+  - first:
+      213: 1645377141065621149
+    second: Map3_PNG_6
+  - first:
+      213: 3865868786357823839
+    second: Map3_PNG_7
+  - first:
+      213: -468180128347193671
+    second: Map3_PNG_8
+  - first:
+      213: -3700105178571459145
+    second: Map3_PNG_9
+  - first:
+      213: -5776384807739936463
+    second: Map3_PNG_10
+  - first:
+      213: -2605677864145537567
+    second: Map3_PNG_11
+  - first:
+      213: -3061956373125320501
+    second: Map3_PNG_12
+  - first:
+      213: 7315704039758255273
+    second: Map3_PNG_13
+  - first:
+      213: -4211244623292000374
+    second: Map3_PNG_14
+  - first:
+      213: -1686198120302110777
+    second: Map3_PNG_15
+  - first:
+      213: 1945554719001778480
+    second: Map3_PNG_16
+  - first:
+      213: 5454255561770153278
+    second: Map3_PNG_17
+  - first:
+      213: -187195694639347430
+    second: Map3_PNG_18
+  - first:
+      213: 4507158033874239915
+    second: Map3_PNG_19
+  - first:
+      213: 2495879131716975442
+    second: Map3_PNG_20
+  - first:
+      213: 8013689576939016994
+    second: Map3_PNG_21
+  - first:
+      213: 1801417034464374277
+    second: Map3_PNG_22
+  - first:
+      213: -5124283010357086582
+    second: Map3_PNG_23
+  - first:
+      213: 9093576885794917612
+    second: Map3_PNG_24
+  - first:
+      213: -2516500435960320593
+    second: Map3_PNG_25
+  - first:
+      213: 2038928956523914426
+    second: Map3_PNG_26
+  - first:
+      213: -4229385387523527422
+    second: Map3_PNG_27
+  - first:
+      213: 2584232438238679931
+    second: Map3_PNG_28
+  - first:
+      213: 2601235575730372718
+    second: Map3_PNG_29
+  - first:
+      213: 6329069265485780894
+    second: Map3_PNG_30
+  - first:
+      213: 4798890166159380239
+    second: Map3_PNG_31
+  - first:
+      213: -3577100597753930166
+    second: Map3_PNG_32
+  - first:
+      213: 3332772353854857890
+    second: Map3_PNG_33
+  - first:
+      213: 7008272579661942475
+    second: Map3_PNG_34
+  - first:
+      213: -5676253370775394807
+    second: Map3_PNG_35
+  - first:
+      213: 1497543060047858480
+    second: Map3_PNG_36
+  - first:
+      213: 1165832440951984256
+    second: Map3_PNG_37
+  - first:
+      213: 1251755075824345009
+    second: Map3_PNG_38
+  - first:
+      213: 3389754438549713105
+    second: Map3_PNG_39
+  - first:
+      213: -8593131742188075040
+    second: Map3_PNG_40
+  - first:
+      213: 6436994042280139788
+    second: Map3_PNG_41
+  - first:
+      213: -834408873567193751
+    second: Map3_PNG_42
+  - first:
+      213: 4900441266262177168
+    second: Map3_PNG_43
+  - first:
+      213: -9109126775445527218
+    second: Map3_PNG_44
+  - first:
+      213: -1416346013705209625
+    second: Map3_PNG_45
+  - first:
+      213: -4601022865334619833
+    second: Map3_PNG_46
+  - first:
+      213: -4428235497726985505
+    second: Map3_PNG_47
+  - first:
+      213: 3951104747260726057
+    second: Map3_PNG_48
+  - first:
+      213: -1557266053819037172
+    second: Map3_PNG_49
+  - first:
+      213: -7688500328369519701
+    second: Map3_PNG_50
+  - first:
+      213: -1962997605844150094
+    second: Map3_PNG_51
+  - first:
+      213: -6186151537046013703
+    second: Map3_PNG_52
+  - first:
+      213: -4639826029991484113
+    second: Map3_PNG_53
+  - first:
+      213: -480593052802149912
+    second: Map3_PNG_54
+  - first:
+      213: -4515654672723077587
+    second: Map3_PNG_55
+  - first:
+      213: 2613606458912635639
+    second: Map3_PNG_56
+  - first:
+      213: -8200274393852326640
+    second: Map3_PNG_57
+  - first:
+      213: -780005170036750487
+    second: Map3_PNG_58
+  - first:
+      213: -389132230631231287
+    second: Map3_PNG_59
+  - first:
+      213: 6584476866166523697
+    second: Map3_PNG_60
+  - first:
+      213: -865296216956715434
+    second: Map3_PNG_61
+  - first:
+      213: -2129657723193853914
+    second: Map3_PNG_62
+  - first:
+      213: -8494387928165359982
+    second: Map3_PNG_63
+  - first:
+      213: 4091842114062543418
+    second: Map3_PNG_64
+  - first:
+      213: -5565515379271740984
+    second: Map3_PNG_65
+  - first:
+      213: -7138409244746256886
+    second: Map3_PNG_66
+  - first:
+      213: -1612997048032884065
+    second: Map3_PNG_67
+  - first:
+      213: 2515849616612888608
+    second: Map3_PNG_68
+  - first:
+      213: -9161762361160891157
+    second: Map3_PNG_69
+  - first:
+      213: -5589735021272878991
+    second: Map3_PNG_70
+  - first:
+      213: 7523225014660137074
+    second: Map3_PNG_71
+  - first:
+      213: -1735760681080868269
+    second: Map3_PNG_72
+  - first:
+      213: -8782570325741484137
+    second: Map3_PNG_73
+  - first:
+      213: 4359212782674400628
+    second: Map3_PNG_74
+  - first:
+      213: 6886049079035824247
+    second: Map3_PNG_75
+  - first:
+      213: 5496320788184068981
+    second: Map3_PNG_76
+  - first:
+      213: -5759905658596316074
+    second: Map3_PNG_77
+  - first:
+      213: 3355933868754058899
+    second: Map3_PNG_78
+  - first:
+      213: 3576593912356790297
+    second: Map3_PNG_79
+  - first:
+      213: -6355228390308360212
+    second: Map3_PNG_80
+  - first:
+      213: 5595620364888471397
+    second: Map3_PNG_81
+  - first:
+      213: 3465386011572144314
+    second: Map3_PNG_82
+  - first:
+      213: 5511077227164761434
+    second: Map3_PNG_83
+  - first:
+      213: 8166846068753153028
+    second: Map3_PNG_84
+  - first:
+      213: -7081912490334024616
+    second: Map3_PNG_85
+  - first:
+      213: -7737339801862887813
+    second: Map3_PNG_86
+  - first:
+      213: 3170029958294923954
+    second: Map3_PNG_87
+  - first:
+      213: -4202931168195498060
+    second: Map3_PNG_88
+  - first:
+      213: 5618337944922839931
+    second: Map3_PNG_89
+  - first:
+      213: 5295078338330100737
+    second: Map3_PNG_90
+  - first:
+      213: 3102901778531413226
+    second: Map3_PNG_91
+  - first:
+      213: -7107825026723024700
+    second: Map3_PNG_92
+  - first:
+      213: 2232282565658012731
+    second: Map3_PNG_93
+  - first:
+      213: -4176155305117047655
+    second: Map3_PNG_94
+  - first:
+      213: -2384291505833738734
+    second: Map3_PNG_95
+  - first:
+      213: -6510901248111647992
+    second: Map3_PNG_96
+  - first:
+      213: -8262002800035432042
+    second: Map3_PNG_97
+  - first:
+      213: -4687347781763197294
+    second: Map3_PNG_98
+  - first:
+      213: -8689582344473678037
+    second: Map3_PNG_99
+  - first:
+      213: -575933553521579557
+    second: Map3_PNG_100
+  - first:
+      213: -2877066684102278790
+    second: Map3_PNG_101
+  - first:
+      213: -4789190643945288624
+    second: Map3_PNG_102
+  - first:
+      213: -5937742964891660970
+    second: Map3_PNG_103
+  - first:
+      213: -6273281901082111731
+    second: Map3_PNG_104
+  - first:
+      213: -5861086980466536231
+    second: Map3_PNG_105
+  - first:
+      213: 5306068755760985040
+    second: Map3_PNG_106
+  - first:
+      213: -8119658878407043873
+    second: Map3_PNG_107
+  - first:
+      213: 2226800045643794533
+    second: Map3_PNG_108
+  - first:
+      213: -2415024620440929896
+    second: Map3_PNG_109
+  - first:
+      213: 4718618338783568751
+    second: Map3_PNG_110
+  - first:
+      213: -5102277177342190264
+    second: Map3_PNG_111
+  - first:
+      213: 5077008032614585773
+    second: Map3_PNG_112
+  - first:
+      213: -1106023400227092390
+    second: Map3_PNG_113
+  - first:
+      213: -4243758621379649587
+    second: Map3_PNG_114
+  - first:
+      213: -5694960661625287194
+    second: Map3_PNG_115
+  - first:
+      213: 3964693507110922828
+    second: Map3_PNG_116
+  - first:
+      213: 5457207423658300869
+    second: Map3_PNG_117
+  - first:
+      213: -8924401701166863644
+    second: Map3_PNG_118
+  - first:
+      213: 3580505129775459935
+    second: Map3_PNG_119
+  - first:
+      213: -7482938892839386224
+    second: Map3_PNG_120
+  - first:
+      213: -3211180462490050619
+    second: Map3_PNG_121
+  - first:
+      213: -3005528799817498041
+    second: Map3_PNG_122
+  - first:
+      213: 3334044279733426185
+    second: Map3_PNG_123
+  - first:
+      213: 1904855110195781176
+    second: Map3_PNG_124
+  - first:
+      213: -5065060086388969386
+    second: Map3_PNG_125
+  - first:
+      213: -6569943010008265941
+    second: Map3_PNG_126
+  - first:
+      213: 7503140871928336307
+    second: Map3_PNG_127
+  - first:
+      213: -5155165463482422522
+    second: Map3_PNG_128
+  - first:
+      213: 7634147596952984650
+    second: Map3_PNG_129
+  - first:
+      213: 711733812752648681
+    second: Map3_PNG_130
+  - first:
+      213: -3516704475907819844
+    second: Map3_PNG_131
+  - first:
+      213: -53300492872713972
+    second: Map3_PNG_132
+  - first:
+      213: -3341242204641990221
+    second: Map3_PNG_133
+  - first:
+      213: -3080496178390515312
+    second: Map3_PNG_134
+  - first:
+      213: -8406096618802393599
+    second: Map3_PNG_135
+  - first:
+      213: 1888249829360630853
+    second: Map3_PNG_136
+  - first:
+      213: -998686977031426503
+    second: Map3_PNG_137
+  - first:
+      213: 4793679143477977466
+    second: Map3_PNG_138
+  - first:
+      213: -2467493964709229783
+    second: Map3_PNG_139
+  - first:
+      213: -4432931928078678635
+    second: Map3_PNG_140
+  - first:
+      213: 3227751173366255530
+    second: Map3_PNG_141
+  - first:
+      213: -7418967180285084163
+    second: Map3_PNG_142
+  - first:
+      213: 29141323213582571
+    second: Map3_PNG_143
+  - first:
+      213: -4971138764000977749
+    second: Map3_PNG_144
+  - first:
+      213: -4541074688733451131
+    second: Map3_PNG_145
+  - first:
+      213: 243328436703542958
+    second: Map3_PNG_146
+  - first:
+      213: -8104189869900042605
+    second: Map3_PNG_147
+  - first:
+      213: 7337853286950563876
+    second: Map3_PNG_148
+  - first:
+      213: -3112549442559758120
+    second: Map3_PNG_149
+  - first:
+      213: 8040883782945303166
+    second: Map3_PNG_150
+  - first:
+      213: -3667927952519431734
+    second: Map3_PNG_151
+  - first:
+      213: 7824869346291830438
+    second: Map3_PNG_152
+  - first:
+      213: -7064199962776873327
+    second: Map3_PNG_153
+  - first:
+      213: 3197180895887457572
+    second: Map3_PNG_154
+  - first:
+      213: 1931392073013853037
+    second: Map3_PNG_155
+  - first:
+      213: -19314478311583494
+    second: Map3_PNG_156
+  - first:
+      213: 841900599364157031
+    second: Map3_PNG_157
+  - first:
+      213: -635830749554355102
+    second: Map3_PNG_158
+  - first:
+      213: -3284936057349821207
+    second: Map3_PNG_159
+  - first:
+      213: -6470970668530024689
+    second: Map3_PNG_160
+  - first:
+      213: -421445931980272640
+    second: Map3_PNG_161
+  - first:
+      213: -817207096896998308
+    second: Map3_PNG_162
+  - first:
+      213: -275290076019696896
+    second: Map3_PNG_163
+  - first:
+      213: -1068851219442748151
+    second: Map3_PNG_164
+  - first:
+      213: 86285866302728774
+    second: Map3_PNG_165
+  - first:
+      213: 1645182946871691020
+    second: Map3_PNG_166
+  - first:
+      213: -4284636587757561611
+    second: Map3_PNG_167
+  - first:
+      213: 4936591446908478501
+    second: Map3_PNG_168
+  - first:
+      213: -6301200343316411879
+    second: Map3_PNG_169
+  - first:
+      213: -5655164943654027367
+    second: Map3_PNG_170
+  - first:
+      213: 5553437100574487565
+    second: Map3_PNG_171
+  - first:
+      213: -7318431215177617922
+    second: Map3_PNG_172
+  - first:
+      213: -5931935132871067682
+    second: Map3_PNG_173
+  - first:
+      213: -8623523570645073492
+    second: Map3_PNG_174
+  - first:
+      213: -1657636025269578514
+    second: Map3_PNG_175
+  - first:
+      213: -1514161485228352200
+    second: Map3_PNG_176
+  - first:
+      213: 5732917211287504407
+    second: Map3_PNG_177
+  - first:
+      213: 8724778181060964091
+    second: Map3_PNG_178
+  - first:
+      213: 1722317796948950454
+    second: Map3_PNG_179
+  - first:
+      213: 685178884099936678
+    second: Map3_PNG_180
+  - first:
+      213: -8699776141927556507
+    second: Map3_PNG_181
+  - first:
+      213: 242722663443983784
+    second: Map3_PNG_182
+  - first:
+      213: -5976351947143697351
+    second: Map3_PNG_183
+  - first:
+      213: -7324004272768813600
+    second: Map3_PNG_184
+  - first:
+      213: 2358255448636898667
+    second: Map3_PNG_185
+  - first:
+      213: 6437617909475103113
+    second: Map3_PNG_186
+  - first:
+      213: -6320315732120314268
+    second: Map3_PNG_187
+  - first:
+      213: -5743509878743162221
+    second: Map3_PNG_188
+  - first:
+      213: -3493442348853834862
+    second: Map3_PNG_189
+  - first:
+      213: 7039003721220465046
+    second: Map3_PNG_190
+  - first:
+      213: 3631098519106234845
+    second: Map3_PNG_191
+  - first:
+      213: -5202641004235921161
+    second: Map3_PNG_192
+  - first:
+      213: -2826929717108949067
+    second: Map3_PNG_193
+  - first:
+      213: 1599656857063023678
+    second: Map3_PNG_194
+  - first:
+      213: 955915966477444607
+    second: Map3_PNG_195
+  - first:
+      213: -8821237836285233327
+    second: Map3_PNG_196
+  - first:
+      213: 5395472012577195084
+    second: Map3_PNG_197
+  - first:
+      213: -274489847866081657
+    second: Map3_PNG_198
+  - first:
+      213: -5943626350546659810
+    second: Map3_PNG_199
+  - first:
+      213: -8266686173446445264
+    second: Map3_PNG_200
+  - first:
+      213: 1395576123467981341
+    second: Map3_PNG_201
+  - first:
+      213: 5535536247890780643
+    second: Map3_PNG_202
+  - first:
+      213: 54469709456891234
+    second: Map3_PNG_203
+  - first:
+      213: -6030435993272685676
+    second: Map3_PNG_204
+  - first:
+      213: 3415547197928606000
+    second: Map3_PNG_205
+  - first:
+      213: 4684366370550798811
+    second: Map3_PNG_206
+  - first:
+      213: 2714520945316233720
+    second: Map3_PNG_207
+  - first:
+      213: 7493660384319963382
+    second: Map3_PNG_208
+  - first:
+      213: 1439092376305304168
+    second: Map3_PNG_209
+  - first:
+      213: 5501644434254356404
+    second: Map3_PNG_210
+  - first:
+      213: 5561751079069575124
+    second: Map3_PNG_211
+  - first:
+      213: 7245450848178871559
+    second: Map3_PNG_212
+  - first:
+      213: -2296567677099159255
+    second: Map3_PNG_213
+  - first:
+      213: -7906332285914778402
+    second: Map3_PNG_214
+  - first:
+      213: 3036439878353794686
+    second: Map3_PNG_215
+  - first:
+      213: 7471957720254119302
+    second: Map3_PNG_216
+  - first:
+      213: -8088422423434680506
+    second: Map3_PNG_217
+  - first:
+      213: -8072336423513164557
+    second: Map3_PNG_218
+  - first:
+      213: -594178147644121776
+    second: Map3_PNG_219
+  - first:
+      213: -2640571149907289734
+    second: Map3_PNG_220
+  - first:
+      213: 921011943307443161
+    second: Map3_PNG_221
+  - first:
+      213: 5323265891610655994
+    second: Map3_PNG_222
+  - first:
+      213: -928607281533664788
+    second: Map3_PNG_223
+  - first:
+      213: -8154870752973379937
+    second: Map3_PNG_224
+  - first:
+      213: -5489099944819660066
+    second: Map3_PNG_225
+  - first:
+      213: -3555819853472729914
+    second: Map3_PNG_226
+  - first:
+      213: -3580688338812605832
+    second: Map3_PNG_227
+  - first:
+      213: 9205313397434812814
+    second: Map3_PNG_228
+  - first:
+      213: -116911174593114819
+    second: Map3_PNG_229
+  - first:
+      213: -2777463209259250012
+    second: Map3_PNG_230
+  - first:
+      213: -7588642276232082990
+    second: Map3_PNG_231
+  - first:
+      213: 1338591095973667380
+    second: Map3_PNG_232
+  - first:
+      213: 6568687551292933755
+    second: Map3_PNG_233
+  - first:
+      213: -4672243210989727518
+    second: Map3_PNG_234
+  - first:
+      213: 2282837864767488111
+    second: Map3_PNG_235
+  - first:
+      213: 6169720476501012422
+    second: Map3_PNG_236
+  - first:
+      213: -7023702929246181206
+    second: Map3_PNG_237
+  - first:
+      213: 3278041828859930300
+    second: Map3_PNG_238
+  - first:
+      213: 6867536561408247543
+    second: Map3_PNG_239
+  - first:
+      213: -7604887022282847403
+    second: Map3_PNG_240
+  - first:
+      213: 5311660404140507311
+    second: Map3_PNG_241
+  - first:
+      213: 7071492397311076071
+    second: Map3_PNG_242
+  - first:
+      213: -5296707177422654521
+    second: Map3_PNG_243
+  - first:
+      213: 4862879839665989164
+    second: Map3_PNG_244
+  - first:
+      213: 7494987668414580850
+    second: Map3_PNG_245
+  - first:
+      213: 2527883647911495488
+    second: Map3_PNG_246
+  - first:
+      213: 8193730061199827131
+    second: Map3_PNG_247
+  - first:
+      213: 6121923235866069608
+    second: Map3_PNG_248
+  - first:
+      213: -694478509111562677
+    second: Map3_PNG_249
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 25
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map3_PNG_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1141
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6c827ee88cffb0800000000000000
+      internalID: -4612661360628830974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1132
+        width: 165
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f41ddecb94ce410800000000000000
+      internalID: 1507661051054870321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1136
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b168a2594585fc0800000000000000
+      internalID: -3505959310267639003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1140
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891516514998beb30800000000000000
+      internalID: 4317695936871616920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1134
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c443bd437f4e940800000000000000
+      internalID: 5324652465846766735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1151
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b7d34dd68755470800000000000000
+      internalID: 8382738694527613699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1152
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e93cecacd85d610800000000000000
+      internalID: 1645377141065621149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_7
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1155
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e02fcd2356a530800000000000000
+      internalID: 3865868786357823839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_8
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1152
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef7fe57a0b089f0800000000000000
+      internalID: -468180128347193671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1152
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53aafa1f596acc0800000000000000
+      internalID: -3700105178571459145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_10
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1152
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b2b83f9826dfa0800000000000000
+      internalID: -5776384807739936463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_11
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1152
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5b18cb9c5c6dbd0800000000000000
+      internalID: -2605677864145537567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_12
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1123
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03f1ec6eeb185d0800000000000000
+      internalID: -3061956373125320501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_13
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1123
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a45eab501a968560800000000000000
+      internalID: 7315704039758255273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_14
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1124
+        width: 119
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a871866c357ae85c0800000000000000
+      internalID: -4211244623292000374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_15
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1123
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c716725ebb6998e0800000000000000
+      internalID: -1686198120302110777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_16
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 944
+        width: 6
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399f2d75bffffa10800000000000000
+      internalID: 1945554719001778480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1037
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e353289198861bb40800000000000000
+      internalID: 5454255561770153278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1036
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a190a8de182f66df0800000000000000
+      internalID: -187195694639347430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1036
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba14f931a54ac8e30800000000000000
+      internalID: 4507158033874239915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1034
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfc48b8d423a220800000000000000
+      internalID: 2495879131716975442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_21
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1036
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22353bd3638563f60800000000000000
+      internalID: 8013689576939016994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_22
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1080
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e269f9f3beff810800000000000000
+      internalID: 1801417034464374277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_23
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1083
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b81f60c3e2e8b0800000000000000
+      internalID: -5124283010357086582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_24
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1082
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec428f6fffd23e70800000000000000
+      internalID: 9093576885794917612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_25
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1081
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad287dbf28931dd0800000000000000
+      internalID: -2516500435960320593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_26
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1081
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4addf451bbb4c10800000000000000
+      internalID: 2038928956523914426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_27
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1081
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dae66f5643e45c0800000000000000
+      internalID: -4229385387523527422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_28
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1017
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731242f5b90dd320800000000000000
+      internalID: 2584232438238679931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_29
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1017
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60848469f1791420800000000000000
+      internalID: 2601235575730372718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_30
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1018
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e975f10d6fe55d750800000000000000
+      internalID: 6329069265485780894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_31
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1018
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f8b063e25199240800000000000000
+      internalID: 4798890166159380239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1029
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1a0965f59b5ec0800000000000000
+      internalID: -3577100597753930166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1016
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e2cc4cc2604e20800000000000000
+      internalID: 3332772353854857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_34
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1015
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4cdf97c2624160800000000000000
+      internalID: 7008272579661942475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_35
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1018
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906a1d322a5e931b0800000000000000
+      internalID: -5676253370775394807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_36
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1017
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b01029a7758c410800000000000000
+      internalID: 1497543060047858480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_37
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1017
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d19e9d6edd2010800000000000000
+      internalID: 1165832440951984256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_38
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1016
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5d400c902f5110800000000000000
+      internalID: 1251755075824345009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 946
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d03f81c3b3da0f20800000000000000
+      internalID: 3389754438549713105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 944
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70fb675301fb880800000000000000
+      internalID: -8593131742188075040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 943
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd96f0afbc45950800000000000000
+      internalID: 6436994042280139788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_42
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 944
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f795ec859b64f0800000000000000
+      internalID: -834408873567193751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_43
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1017
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f8363e5dd10440800000000000000
+      internalID: 4900441266262177168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_44
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 850
+        width: 182
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45e19fb571e59180800000000000000
+      internalID: -9109126775445527218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_45
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 945
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e87f0efdc0285ce0800000000000000
+      internalID: -1416346013705209625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_46
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 933
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741b74cc412e520c0800000000000000
+      internalID: -4601022865334619833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_47
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 942
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3530d64fbb82c0800000000000000
+      internalID: -4428235497726985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_48
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 852
+        width: 93
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bc5d275d425d630800000000000000
+      internalID: 3951104747260726057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_49
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 941
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a875956ca736ae0800000000000000
+      internalID: -1557266053819037172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_50
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 941
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38f00dfa5fc4590800000000000000
+      internalID: -7688500328369519701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_51
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 924
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b897b0f31802c4e0800000000000000
+      internalID: -1962997605844150094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_52
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 922
+        width: 123
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b2a3e3ff562aa0800000000000000
+      internalID: -6186151537046013703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_53
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 923
+        width: 116
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252fbefec60c9fb0800000000000000
+      internalID: -4639826029991484113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_54
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 923
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1153e2a279459f0800000000000000
+      internalID: -480593052802149912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 851
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261208000c2551c0800000000000000
+      internalID: -4515654672723077587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_56
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 851
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa77261a35654420800000000000000
+      internalID: 2613606458912635639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_57
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 851
+        width: 176
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d43bdb2e5c23e80800000000000000
+      internalID: -8200274393852326640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_58
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 851
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967cdf43e6ddc25f0800000000000000
+      internalID: -780005170036750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_59
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 827
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0f1964c46899af0800000000000000
+      internalID: -389132230631231287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_60
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 827
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13702afd2d2c06b50800000000000000
+      internalID: 6584476866166523697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_61
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 827
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3ecadca9ddf3f0800000000000000
+      internalID: -865296216956715434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_62
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 827
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628fcdb859fe172e0800000000000000
+      internalID: -2129657723193853914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_63
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 729
+        width: 6
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e565d3f2fdd1a80800000000000000
+      internalID: -8494387928165359982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_64
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 770
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a6ea529b429c830800000000000000
+      internalID: 4091842114062543418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_65
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 770
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d88aff3153c2b0800000000000000
+      internalID: -5565515379271740984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_66
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 770
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee881ec964fec90800000000000000
+      internalID: -7138409244746256886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_67
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 771
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0f381bbb7d99e0800000000000000
+      internalID: -1612997048032884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_68
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 770
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020938295e71ae220800000000000000
+      internalID: 2515849616612888608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_69
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 771
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be406727ca1ead080800000000000000
+      internalID: -9161762361160891157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_70
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 771
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17038742d954d62b0800000000000000
+      internalID: -5589735021272878991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_71
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 771
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27086248a4dd76860800000000000000
+      internalID: 7523225014660137074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_72
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 771
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b5156bd659e7e0800000000000000
+      internalID: -1735760681080868269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_73
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 826
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ca4f12da0e1680800000000000000
+      internalID: -8782570325741484137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_74
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 799
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47556a30ee80f7c30800000000000000
+      internalID: 4359212782674400628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_75
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 738
+        width: 181
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77806dd4729209f50800000000000000
+      internalID: 6886049079035824247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_76
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 742
+        width: 144
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5737e47d2aad64c40800000000000000
+      internalID: 5496320788184068981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_77
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 739
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65caa9f1254b010b0800000000000000
+      internalID: -5759905658596316074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 353
+        width: 337
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb9c8b21ca29e20800000000000000
+      internalID: 3355933868754058899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 556
+        width: 121
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e9d3b63d92a130800000000000000
+      internalID: 3576593912356790297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_80
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 543
+        width: 124
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef41315371bdc7a0800000000000000
+      internalID: -6355228390308360212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_81
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 573
+        width: 48
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5677e133313a7ad40800000000000000
+      internalID: 5595620364888471397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_82
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 614
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab88d559736871030800000000000000
+      internalID: 3465386011572144314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_83
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 574
+        width: 31
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d76e60a874b7c40800000000000000
+      internalID: 5511077227164761434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_84
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 629
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb35fca37765170800000000000000
+      internalID: 8166846068753153028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 628
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c0d339c1ef7bd90800000000000000
+      internalID: -7081912490334024616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_86
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 629
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a873c1727f9490800000000000000
+      internalID: -7737339801862887813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_87
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 629
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae38793753efb20800000000000000
+      internalID: 3170029958294923954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_88
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 629
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2a40ee503ca5c0800000000000000
+      internalID: -4202931168195498060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_89
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 629
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b593bf79858fd40800000000000000
+      internalID: 5618337944922839931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_90
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 672
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040806b1b5eb7940800000000000000
+      internalID: 5295078338330100737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_91
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 684
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecea4a4ab8bf0b20800000000000000
+      internalID: 3102901778531413226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_92
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 655
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0fa8c0cceeb5d90800000000000000
+      internalID: -7107825026723024700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_93
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 652
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce7549a29aafe10800000000000000
+      internalID: 2232282565658012731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_94
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 584
+        width: 52
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a2af40e05b06c0800000000000000
+      internalID: -4176155305117047655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_95
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 659
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7cc9028b49eed0800000000000000
+      internalID: -2384291505833738734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_96
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80368a2afc1a4a5a0800000000000000
+      internalID: -6510901248111647992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_97
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 639
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699fa923a38775d80800000000000000
+      internalID: -8262002800035432042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_98
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 588
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2961a41f60233feb0800000000000000
+      internalID: -4687347781763197294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_99
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 585
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe327a5e6686780800000000000000
+      internalID: -8689582344473678037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_100
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 603
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd92e180c7fd108f0800000000000000
+      internalID: -575933553521579557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_101
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 624
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7109fa181b9218d0800000000000000
+      internalID: -2877066684102278790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_102
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 573
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c440acb70698db0800000000000000
+      internalID: -4789190643945288624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_103
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 574
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dce02ab36e89da0800000000000000
+      internalID: -5937742964891660970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_104
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 573
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d011d162953d0f8a0800000000000000
+      internalID: -6273281901082111731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_105
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 573
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d010a3d17c39aea0800000000000000
+      internalID: -5861086980466536231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_106
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 574
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3beecab61f2a940800000000000000
+      internalID: 5306068755760985040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_107
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 575
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49337154d215f80800000000000000
+      internalID: -8119658878407043873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_108
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 598
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680c6ae7de27ee10800000000000000
+      internalID: 2226800045643794533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_109
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 603
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899bbce27eb1c7ed0800000000000000
+      internalID: -2415024620440929896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_110
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 478
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a6d9f066eb7140800000000000000
+      internalID: 4718618338783568751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 576
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d9fe2b0f11139b0800000000000000
+      internalID: -5102277177342190264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_112
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51cc118e7257640800000000000000
+      internalID: 5077008032614585773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_113
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 583
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c134d39d96a0f0800000000000000
+      internalID: -1106023400227092390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_114
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 585
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1a2ca4042b15c0800000000000000
+      internalID: -4243758621379649587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_115
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 586
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4002937f67f0b0800000000000000
+      internalID: -5694960661625287194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_116
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 584
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae4a62dbb650730800000000000000
+      internalID: 3964693507110922828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_117
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 586
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c517c00d35ebbb40800000000000000
+      internalID: 5457207423658300869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_118
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 544
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaae01bfe7262480800000000000000
+      internalID: -8924401701166863644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_119
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 577
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eeab8f17280b130800000000000000
+      internalID: 3580505129775459935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_120
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 435
+        width: 69
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0938a5829b2472890800000000000000
+      internalID: -7482938892839386224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_121
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 483
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1b9702689f63d0800000000000000
+      internalID: -3211180462490050619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_122
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 474
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420ca40b773a46d0800000000000000
+      internalID: -3005528799817498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_123
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 437
+        width: 60
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081fee9b97e44e20800000000000000
+      internalID: 3334044279733426185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_124
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 508
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e9ecf51a76f6a10800000000000000
+      internalID: 1904855110195781176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_125
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 567
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b6c0ffaa45b9b0800000000000000
+      internalID: -5065060086388969386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_126
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 548
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b85e534afd2d4a0800000000000000
+      internalID: -6569943010008265941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_127
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 458
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc003aed2802860800000000000000
+      internalID: 7503140871928336307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_128
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 458
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ba4cef25c2578b0800000000000000
+      internalID: -5155165463482422522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_129
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 359
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd84fbac0f1f960800000000000000
+      internalID: 7634147596952984650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_130
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 516
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e981cbb12690e900800000000000000
+      internalID: 711733812752648681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 518
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6fc7559e7223fc0800000000000000
+      internalID: -3516704475907819844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_132
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 516
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f7ffeb73a24ff0800000000000000
+      internalID: -53300492872713972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_133
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 517
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b965c3eae581a1d0800000000000000
+      internalID: -3341242204641990221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_134
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 515
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c5130c01ef35d0800000000000000
+      internalID: -3080496178390515312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_135
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 517
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ecba0a9ab875b80800000000000000
+      internalID: -8406096618802393599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_136
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 516
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c7b362739643a10800000000000000
+      internalID: 1888249829360630853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_137
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 517
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eab345c73f322f0800000000000000
+      internalID: -998686977031426503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_138
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 501
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71243278c1968240800000000000000
+      internalID: 4793679143477977466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_139
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 510
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b061cff43b1cdd0800000000000000
+      internalID: -2467493964709229783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_140
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 351
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950269e5ef0b72c0800000000000000
+      internalID: -4432931928078678635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_141
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 457
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf88df37964bcc20800000000000000
+      internalID: 3227751173366255530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_142
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 456
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd73da28a88a0990800000000000000
+      internalID: -7418967180285084163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_143
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 456
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be03e6a01e7876000800000000000000
+      internalID: 29141323213582571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_144
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 456
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1c82e1a7f20bb0800000000000000
+      internalID: -4971138764000977749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_145
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 458
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c668751acdaf0c0800000000000000
+      internalID: -4541074688733451131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_146
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 456
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae37798ce9706300800000000000000
+      internalID: 243328436703542958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_147
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 487
+        width: 84
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee94c4042288f80800000000000000
+      internalID: -8104189869900042605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_148
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 483
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420fe96dfaa45d560800000000000000
+      internalID: 7337853286950563876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_149
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 489
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0b262e5c00ec4d0800000000000000
+      internalID: -3112549442559758120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_150
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 499
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a67aab235f69f60800000000000000
+      internalID: 8040883782945303166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_151
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 487
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97a50f5f6e81dc0800000000000000
+      internalID: -3667927952519431734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_152
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 460
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae41976635879c60800000000000000
+      internalID: 7824869346291830438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_153
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 478
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965b54cf8be6fd90800000000000000
+      internalID: -7064199962776873327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_154
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 426
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d790ed51bae5c20800000000000000
+      internalID: 3197180895887457572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_155
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 437
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfef18bdeadca10800000000000000
+      internalID: 1931392073013853037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_156
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 466
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0573595916bbff0800000000000000
+      internalID: -19314478311583494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_157
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 360
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef94172280fab00800000000000000
+      internalID: 841900599364157031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_158
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 359
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264da835d431d27f0800000000000000
+      internalID: -635830749554355102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_159
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 403
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecaac76f009962d0800000000000000
+      internalID: -3284936057349821207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_160
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 404
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fbb4e267e7236a0800000000000000
+      internalID: -6470970668530024689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_161
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 404
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c48446829b62af0800000000000000
+      internalID: -421445931980272640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_162
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 404
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b681a972b8a4f0800000000000000
+      internalID: -817207096896998308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_163
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 403
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bd7a86229fd2cf0800000000000000
+      internalID: -275290076019696896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_164
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 405
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9053f5b9a7daa21f0800000000000000
+      internalID: -1068851219442748151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_165
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 441
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a6c1ac98c823100800000000000000
+      internalID: 86285866302728774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_166
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 435
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0741d27c2dd4d610800000000000000
+      internalID: 1645182946871691020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_167
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8911379b9e984c0800000000000000
+      internalID: -4284636587757561611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_168
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 429
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524263a04cb428440800000000000000
+      internalID: 4936591446908478501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_169
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 435
+        width: 118
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a4e064ca3ad88a0800000000000000
+      internalID: -6301200343316411879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_170
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 405
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f72433271d481b0800000000000000
+      internalID: -5655164943654027367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_171
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 363
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b73e9e95c11d40800000000000000
+      internalID: 5553437100574487565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_172
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 402
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2532a595bf6a90800000000000000
+      internalID: -7318431215177617922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_173
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 376
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77f86ec688dada0800000000000000
+      internalID: -5931935132871067682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_174
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 394
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca10e7b7007135880800000000000000
+      internalID: -8623523570645073492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_175
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 401
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49aea41d4eef8e0800000000000000
+      internalID: -1657636025269578514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_176
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 364
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd26cc62e9cfae0800000000000000
+      internalID: -1514161485228352200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_177
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 351
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c38154d96f8f40800000000000000
+      internalID: 5732917211287504407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_178
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 410
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea732a783a41970800000000000000
+      internalID: 8724778181060964091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_179
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 394
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb97d39e6e6e710800000000000000
+      internalID: 1722317796948950454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_180
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 390
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1106a909e328900800000000000000
+      internalID: 685178884099936678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_181
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 366
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5dfa31bf244780800000000000000
+      internalID: -8699776141927556507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_182
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 374
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ade385f9f25e5300800000000000000
+      internalID: 242722663443983784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_183
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 366
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c29c1719bbf0da0800000000000000
+      internalID: -5976351947143697351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_184
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 374
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5fb2c0be8eb5a90800000000000000
+      internalID: -7324004272768813600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_185
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 360
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db1a106d43ab020800000000000000
+      internalID: 2358255448636898667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_186
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 359
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d4f57163075950800000000000000
+      internalID: 6437617909475103113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_187
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 359
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ed7aef35ab948a0800000000000000
+      internalID: -6320315732120314268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_188
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 358
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39221991234fa40b0800000000000000
+      internalID: -5743509878743162221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_189
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 362
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc24951bcc48fc0800000000000000
+      internalID: -3493442348853834862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_190
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 359
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691aff717909fa160800000000000000
+      internalID: 7039003721220465046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_191
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 359
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd926cf5dd0446230800000000000000
+      internalID: 3631098519106234845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_192
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 374
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e2a842918cc7b0800000000000000
+      internalID: -5202641004235921161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_193
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb9b6666ab4c8d0800000000000000
+      internalID: -2826929717108949067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_194
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 376
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3462c7af6f133610800000000000000
+      internalID: 1599656857063023678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_195
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff52301c188144d00800000000000000
+      internalID: 955915966477444607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_196
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 363
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157bbf0cceaa49580800000000000000
+      internalID: -8821237836285233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_197
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 362
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44c931853190ea40800000000000000
+      internalID: 5395472012577195084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_198
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 362
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebd7b00f0d03cf0800000000000000
+      internalID: -274489847866081657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_199
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 362
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d30a235ff38da0800000000000000
+      internalID: -5943626350546659810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_200
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 369
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037671a59b4d64d80800000000000000
+      internalID: -8266686173446445264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_201
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 367
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12635817151e5310800000000000000
+      internalID: 1395576123467981341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_202
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 375
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e124d093ec22dc40800000000000000
+      internalID: 5535536247890780643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_203
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 359
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d523389e381c000800000000000000
+      internalID: 54469709456891234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_204
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b604c2a669f4ca0800000000000000
+      internalID: -6030435993272685676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_205
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 230
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0398d168416766f20800000000000000
+      internalID: 3415547197928606000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_206
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 230
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9577a2566320140800000000000000
+      internalID: 4684366370550798811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_207
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f18ee8ea6aeba520800000000000000
+      internalID: 2714520945316233720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_208
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 232
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00fca9a64def760800000000000000
+      internalID: 7493660384319963382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_209
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 230
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86286a044eea8f310800000000000000
+      internalID: 1439092376305304168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_210
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 230
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf5c38c674c95c40800000000000000
+      internalID: 5501644434254356404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_211
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 232
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d76615932f4f2d40800000000000000
+      internalID: 5561751079069575124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_212
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 232
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d114b88230d8460800000000000000
+      internalID: 7245450848178871559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_213
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 231
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215cdb8dd3f020e0800000000000000
+      internalID: -2296567677099159255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_214
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 231
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f8ddeca0174290800000000000000
+      internalID: -7906332285914778402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_215
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 231
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76bb1b4bf9932a20800000000000000
+      internalID: 3036439878353794686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_216
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 232
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfb7c55f9b1b760800000000000000
+      internalID: 7471957720254119302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_217
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 232
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472fd109a620cf80800000000000000
+      internalID: -8088422423434680506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_218
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 158
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4fc09bacc49ff80800000000000000
+      internalID: -8072336423513164557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_219
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5f507f1e01c7f0800000000000000
+      internalID: -594178147644121776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_220
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 161
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7991ad878eca5bd0800000000000000
+      internalID: -2640571149907289734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_221
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 161
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7bb29b7718cc00800000000000000
+      internalID: 921011943307443161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf762ef1a00e940800000000000000
+      internalID: 5323265891610655994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_223
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 161
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce14850f89cec13f0800000000000000
+      internalID: -928607281533664788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_224
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 160
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96accba14414de80800000000000000
+      internalID: -8154870752973379937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_225
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6864ceacc2d3b0800000000000000
+      internalID: -5489099944819660066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_226
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 157
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f97ccea037aec0800000000000000
+      internalID: -3555819853472729914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_227
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 157
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae0b95de6de4ec0800000000000000
+      internalID: -3580688338812605832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_228
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 157
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890f3c53c7dfbf70800000000000000
+      internalID: 9205313397434812814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_229
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 156
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8a18f7e5a06ef0800000000000000
+      internalID: -116911174593114819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_230
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec2634de77479d0800000000000000
+      internalID: -2777463209259250012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_231
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 157
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ccad5e0abfa690800000000000000
+      internalID: -7588642276232082990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_232
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 157
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e2077281a39210800000000000000
+      internalID: 1338591095973667380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_233
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 157
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768857868aa82b50800000000000000
+      internalID: 6568687551292933755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_234
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01ab0ed8bd82fb0800000000000000
+      internalID: -4672243210989727518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_235
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60074961f44eaf10800000000000000
+      internalID: 2282837864767488111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_236
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 93
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfeb45b5104f9550800000000000000
+      internalID: 6169720476501012422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_237
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 93
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa82966266bc68e90800000000000000
+      internalID: -7023702929246181206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_238
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb66110fca1fd7d20800000000000000
+      internalID: 3278041828859930300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_239
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60fb8ed146e4f50800000000000000
+      internalID: 6867536561408247543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_240
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 93
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b4adfab83067690800000000000000
+      internalID: -7604887022282847403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_241
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 79
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08d44cefec6b940800000000000000
+      internalID: 5311660404140507311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_242
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 79
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e62a957edcf22260800000000000000
+      internalID: 7071492397311076071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_243
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 80
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f572a2e05e76b0800000000000000
+      internalID: -5296707177422654521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_244
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2623b4137b6c7340800000000000000
+      internalID: 4862879839665989164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_245
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 79
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278c8c3039b830860800000000000000
+      internalID: 7494987668414580850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_246
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 79
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478843d8c8d41320800000000000000
+      internalID: 2527883647911495488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_247
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 79
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb06143141af5b170800000000000000
+      internalID: 8193730061199827131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_248
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 79
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac1086fb075f450800000000000000
+      internalID: 6121923235866069608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_249
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 79
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e2348b977bc56f0800000000000000
+      internalID: -694478509111562677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_250
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1140
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863a4675d660e1243a70b4eab6d7fc70
+      internalID: -949343823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_251
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1140
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb29e990f9b1c694fb91ed88dd278157
+      internalID: 1931412213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_250
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1139
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41085b37dd36144a7a865b0113238b
+      internalID: 1976135413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_251
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1138
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435d68f94008a549a7fd0fb2560887c
+      internalID: 224018911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_252
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 912
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d99aa43bba6ae46a496878d0bfe365
+      internalID: 1972728331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_253
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 774
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a046c2d247a9c4eb87718e64737666
+      internalID: -590825607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_254
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 774
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc79f93c2aeaea42bfc401f2f2e1187
+      internalID: 1873408856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_255
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1069
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24136591a94540b4c85d77be99a9959e
+      internalID: -683624379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_256
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1062
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925fd9598d145d40840d0cf7f024a9e
+      internalID: 1164959751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_257
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1060
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11a0c3b2c5b0d43b503f37880f5913
+      internalID: 1137055480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_258
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 986
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6f811569e702458a51fe12c75e169
+      internalID: 1300798297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_259
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 917
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8d878d8cb92b48bce9c7598c4eeb7
+      internalID: -2078741314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_260
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 918
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285a7eacecb2bd4ebdaf1777290c9ba
+      internalID: -1431814651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_261
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1143
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dfcee47b96e02439893a30cb1ef3b7
+      internalID: -537330989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_262
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 992
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15414629dcfbde04dbf2340466d8a314
+      internalID: 1774598191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map3_PNG_263
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 992
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3df9c162bbe64db6f9b637669ed22
+      internalID: -1794949360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4c60f31bb2d45741807d74e30cb9bbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Map3_PNG_0: -4612661360628830974
+      Map3_PNG_1: 1507661051054870321
+      Map3_PNG_10: -5776384807739936463
+      Map3_PNG_100: -575933553521579557
+      Map3_PNG_101: -2877066684102278790
+      Map3_PNG_102: -4789190643945288624
+      Map3_PNG_103: -5937742964891660970
+      Map3_PNG_104: -6273281901082111731
+      Map3_PNG_105: -5861086980466536231
+      Map3_PNG_106: 5306068755760985040
+      Map3_PNG_107: -8119658878407043873
+      Map3_PNG_108: 2226800045643794533
+      Map3_PNG_109: -2415024620440929896
+      Map3_PNG_11: -2605677864145537567
+      Map3_PNG_110: 4718618338783568751
+      Map3_PNG_111: -5102277177342190264
+      Map3_PNG_112: 5077008032614585773
+      Map3_PNG_113: -1106023400227092390
+      Map3_PNG_114: -4243758621379649587
+      Map3_PNG_115: -5694960661625287194
+      Map3_PNG_116: 3964693507110922828
+      Map3_PNG_117: 5457207423658300869
+      Map3_PNG_118: -8924401701166863644
+      Map3_PNG_119: 3580505129775459935
+      Map3_PNG_12: -3061956373125320501
+      Map3_PNG_120: -7482938892839386224
+      Map3_PNG_121: -3211180462490050619
+      Map3_PNG_122: -3005528799817498041
+      Map3_PNG_123: 3334044279733426185
+      Map3_PNG_124: 1904855110195781176
+      Map3_PNG_125: -5065060086388969386
+      Map3_PNG_126: -6569943010008265941
+      Map3_PNG_127: 7503140871928336307
+      Map3_PNG_128: -5155165463482422522
+      Map3_PNG_129: 7634147596952984650
+      Map3_PNG_13: 7315704039758255273
+      Map3_PNG_130: 711733812752648681
+      Map3_PNG_131: -3516704475907819844
+      Map3_PNG_132: -53300492872713972
+      Map3_PNG_133: -3341242204641990221
+      Map3_PNG_134: -3080496178390515312
+      Map3_PNG_135: -8406096618802393599
+      Map3_PNG_136: 1888249829360630853
+      Map3_PNG_137: -998686977031426503
+      Map3_PNG_138: 4793679143477977466
+      Map3_PNG_139: -2467493964709229783
+      Map3_PNG_14: -4211244623292000374
+      Map3_PNG_140: -4432931928078678635
+      Map3_PNG_141: 3227751173366255530
+      Map3_PNG_142: -7418967180285084163
+      Map3_PNG_143: 29141323213582571
+      Map3_PNG_144: -4971138764000977749
+      Map3_PNG_145: -4541074688733451131
+      Map3_PNG_146: 243328436703542958
+      Map3_PNG_147: -8104189869900042605
+      Map3_PNG_148: 7337853286950563876
+      Map3_PNG_149: -3112549442559758120
+      Map3_PNG_15: -1686198120302110777
+      Map3_PNG_150: 8040883782945303166
+      Map3_PNG_151: -3667927952519431734
+      Map3_PNG_152: 7824869346291830438
+      Map3_PNG_153: -7064199962776873327
+      Map3_PNG_154: 3197180895887457572
+      Map3_PNG_155: 1931392073013853037
+      Map3_PNG_156: -19314478311583494
+      Map3_PNG_157: 841900599364157031
+      Map3_PNG_158: -635830749554355102
+      Map3_PNG_159: -3284936057349821207
+      Map3_PNG_16: 1945554719001778480
+      Map3_PNG_160: -6470970668530024689
+      Map3_PNG_161: -421445931980272640
+      Map3_PNG_162: -817207096896998308
+      Map3_PNG_163: -275290076019696896
+      Map3_PNG_164: -1068851219442748151
+      Map3_PNG_165: 86285866302728774
+      Map3_PNG_166: 1645182946871691020
+      Map3_PNG_167: -4284636587757561611
+      Map3_PNG_168: 4936591446908478501
+      Map3_PNG_169: -6301200343316411879
+      Map3_PNG_17: 5454255561770153278
+      Map3_PNG_170: -5655164943654027367
+      Map3_PNG_171: 5553437100574487565
+      Map3_PNG_172: -7318431215177617922
+      Map3_PNG_173: -5931935132871067682
+      Map3_PNG_174: -8623523570645073492
+      Map3_PNG_175: -1657636025269578514
+      Map3_PNG_176: -1514161485228352200
+      Map3_PNG_177: 5732917211287504407
+      Map3_PNG_178: 8724778181060964091
+      Map3_PNG_179: 1722317796948950454
+      Map3_PNG_18: -187195694639347430
+      Map3_PNG_180: 685178884099936678
+      Map3_PNG_181: -8699776141927556507
+      Map3_PNG_182: 242722663443983784
+      Map3_PNG_183: -5976351947143697351
+      Map3_PNG_184: -7324004272768813600
+      Map3_PNG_185: 2358255448636898667
+      Map3_PNG_186: 6437617909475103113
+      Map3_PNG_187: -6320315732120314268
+      Map3_PNG_188: -5743509878743162221
+      Map3_PNG_189: -3493442348853834862
+      Map3_PNG_19: 4507158033874239915
+      Map3_PNG_190: 7039003721220465046
+      Map3_PNG_191: 3631098519106234845
+      Map3_PNG_192: -5202641004235921161
+      Map3_PNG_193: -2826929717108949067
+      Map3_PNG_194: 1599656857063023678
+      Map3_PNG_195: 955915966477444607
+      Map3_PNG_196: -8821237836285233327
+      Map3_PNG_197: 5395472012577195084
+      Map3_PNG_198: -274489847866081657
+      Map3_PNG_199: -5943626350546659810
+      Map3_PNG_2: -3505959310267639003
+      Map3_PNG_20: 2495879131716975442
+      Map3_PNG_200: -8266686173446445264
+      Map3_PNG_201: 1395576123467981341
+      Map3_PNG_202: 5535536247890780643
+      Map3_PNG_203: 54469709456891234
+      Map3_PNG_204: -6030435993272685676
+      Map3_PNG_205: 3415547197928606000
+      Map3_PNG_206: 4684366370550798811
+      Map3_PNG_207: 2714520945316233720
+      Map3_PNG_208: 7493660384319963382
+      Map3_PNG_209: 1439092376305304168
+      Map3_PNG_21: 8013689576939016994
+      Map3_PNG_210: 5501644434254356404
+      Map3_PNG_211: 5561751079069575124
+      Map3_PNG_212: 7245450848178871559
+      Map3_PNG_213: -2296567677099159255
+      Map3_PNG_214: -7906332285914778402
+      Map3_PNG_215: 3036439878353794686
+      Map3_PNG_216: 7471957720254119302
+      Map3_PNG_217: -8088422423434680506
+      Map3_PNG_218: -8072336423513164557
+      Map3_PNG_219: -594178147644121776
+      Map3_PNG_22: 1801417034464374277
+      Map3_PNG_220: -2640571149907289734
+      Map3_PNG_221: 921011943307443161
+      Map3_PNG_222: 5323265891610655994
+      Map3_PNG_223: -928607281533664788
+      Map3_PNG_224: -8154870752973379937
+      Map3_PNG_225: -5489099944819660066
+      Map3_PNG_226: -3555819853472729914
+      Map3_PNG_227: -3580688338812605832
+      Map3_PNG_228: 9205313397434812814
+      Map3_PNG_229: -116911174593114819
+      Map3_PNG_23: -5124283010357086582
+      Map3_PNG_230: -2777463209259250012
+      Map3_PNG_231: -7588642276232082990
+      Map3_PNG_232: 1338591095973667380
+      Map3_PNG_233: 6568687551292933755
+      Map3_PNG_234: -4672243210989727518
+      Map3_PNG_235: 2282837864767488111
+      Map3_PNG_236: 6169720476501012422
+      Map3_PNG_237: -7023702929246181206
+      Map3_PNG_238: 3278041828859930300
+      Map3_PNG_239: 6867536561408247543
+      Map3_PNG_24: 9093576885794917612
+      Map3_PNG_240: -7604887022282847403
+      Map3_PNG_241: 5311660404140507311
+      Map3_PNG_242: 7071492397311076071
+      Map3_PNG_243: -5296707177422654521
+      Map3_PNG_244: 4862879839665989164
+      Map3_PNG_245: 7494987668414580850
+      Map3_PNG_246: 2527883647911495488
+      Map3_PNG_247: 8193730061199827131
+      Map3_PNG_248: 6121923235866069608
+      Map3_PNG_249: -694478509111562677
+      Map3_PNG_25: -2516500435960320593
+      Map3_PNG_250: -949343823
+      Map3_PNG_251: 1931412213
+      Map3_PNG_252: 1972728331
+      Map3_PNG_253: -590825607
+      Map3_PNG_254: 1873408856
+      Map3_PNG_255: -683624379
+      Map3_PNG_256: 1164959751
+      Map3_PNG_257: 1137055480
+      Map3_PNG_258: 1300798297
+      Map3_PNG_259: -2078741314
+      Map3_PNG_26: 2038928956523914426
+      Map3_PNG_260: -1431814651
+      Map3_PNG_261: -537330989
+      Map3_PNG_262: 1774598191
+      Map3_PNG_263: -1794949360
+      Map3_PNG_27: -4229385387523527422
+      Map3_PNG_28: 2584232438238679931
+      Map3_PNG_29: 2601235575730372718
+      Map3_PNG_3: 4317695936871616920
+      Map3_PNG_30: 6329069265485780894
+      Map3_PNG_31: 4798890166159380239
+      Map3_PNG_32: -3577100597753930166
+      Map3_PNG_33: 3332772353854857890
+      Map3_PNG_34: 7008272579661942475
+      Map3_PNG_35: -5676253370775394807
+      Map3_PNG_36: 1497543060047858480
+      Map3_PNG_37: 1165832440951984256
+      Map3_PNG_38: 1251755075824345009
+      Map3_PNG_39: 3389754438549713105
+      Map3_PNG_4: 5324652465846766735
+      Map3_PNG_40: -8593131742188075040
+      Map3_PNG_41: 6436994042280139788
+      Map3_PNG_42: -834408873567193751
+      Map3_PNG_43: 4900441266262177168
+      Map3_PNG_44: -9109126775445527218
+      Map3_PNG_45: -1416346013705209625
+      Map3_PNG_46: -4601022865334619833
+      Map3_PNG_47: -4428235497726985505
+      Map3_PNG_48: 3951104747260726057
+      Map3_PNG_49: -1557266053819037172
+      Map3_PNG_5: 8382738694527613699
+      Map3_PNG_50: -7688500328369519701
+      Map3_PNG_51: -1962997605844150094
+      Map3_PNG_52: -6186151537046013703
+      Map3_PNG_53: -4639826029991484113
+      Map3_PNG_54: -480593052802149912
+      Map3_PNG_55: -4515654672723077587
+      Map3_PNG_56: 2613606458912635639
+      Map3_PNG_57: -8200274393852326640
+      Map3_PNG_58: -780005170036750487
+      Map3_PNG_59: -389132230631231287
+      Map3_PNG_6: 1645377141065621149
+      Map3_PNG_60: 6584476866166523697
+      Map3_PNG_61: -865296216956715434
+      Map3_PNG_62: -2129657723193853914
+      Map3_PNG_63: -8494387928165359982
+      Map3_PNG_64: 4091842114062543418
+      Map3_PNG_65: -5565515379271740984
+      Map3_PNG_66: -7138409244746256886
+      Map3_PNG_67: -1612997048032884065
+      Map3_PNG_68: 2515849616612888608
+      Map3_PNG_69: -9161762361160891157
+      Map3_PNG_7: 3865868786357823839
+      Map3_PNG_70: -5589735021272878991
+      Map3_PNG_71: 7523225014660137074
+      Map3_PNG_72: -1735760681080868269
+      Map3_PNG_73: -8782570325741484137
+      Map3_PNG_74: 4359212782674400628
+      Map3_PNG_75: 6886049079035824247
+      Map3_PNG_76: 5496320788184068981
+      Map3_PNG_77: -5759905658596316074
+      Map3_PNG_78: 3355933868754058899
+      Map3_PNG_79: 3576593912356790297
+      Map3_PNG_8: -468180128347193671
+      Map3_PNG_80: -6355228390308360212
+      Map3_PNG_81: 5595620364888471397
+      Map3_PNG_82: 3465386011572144314
+      Map3_PNG_83: 5511077227164761434
+      Map3_PNG_84: 8166846068753153028
+      Map3_PNG_85: -7081912490334024616
+      Map3_PNG_86: -7737339801862887813
+      Map3_PNG_87: 3170029958294923954
+      Map3_PNG_88: -4202931168195498060
+      Map3_PNG_89: 5618337944922839931
+      Map3_PNG_9: -3700105178571459145
+      Map3_PNG_90: 5295078338330100737
+      Map3_PNG_91: 3102901778531413226
+      Map3_PNG_92: -7107825026723024700
+      Map3_PNG_93: 2232282565658012731
+      Map3_PNG_94: -4176155305117047655
+      Map3_PNG_95: -2384291505833738734
+      Map3_PNG_96: -6510901248111647992
+      Map3_PNG_97: -8262002800035432042
+      Map3_PNG_98: -4687347781763197294
+      Map3_PNG_99: -8689582344473678037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
