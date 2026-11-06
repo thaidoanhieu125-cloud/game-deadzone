@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: d2c28620ee17d004386782cf64f914ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8392639408426957295
+    second: AmmoHealthGold_PNG_0
+  - first:
+      213: -1118982494468544335
+    second: AmmoHealthGold_PNG_1
+  - first:
+      213: -5826249455807843247
+    second: AmmoHealthGold_PNG_2
+  - first:
+      213: 6032429625536278290
+    second: AmmoHealthGold_PNG_3
+  - first:
+      213: -7504063930194533867
+    second: AmmoHealthGold_PNG_4
+  - first:
+      213: -331030538069073212
+    second: AmmoHealthGold_PNG_5
+  - first:
+      213: -8321499469476014728
+    second: AmmoHealthGold_PNG_6
+  - first:
+      213: -5338806691662734517
+    second: AmmoHealthGold_PNG_7
+  - first:
+      213: 8840813760131662425
+    second: AmmoHealthGold_PNG_8
+  - first:
+      213: 7869331907246548449
+    second: AmmoHealthGold_PNG_9
+  - first:
+      213: -4193459581426302343
+    second: AmmoHealthGold_PNG_10
+  - first:
+      213: 5795149832556312181
+    second: AmmoHealthGold_PNG_11
+  - first:
+      213: -4126941667332668318
+    second: AmmoHealthGold_PNG_12
+  - first:
+      213: 3473627378247843070
+    second: AmmoHealthGold_PNG_13
+  - first:
+      213: -3229810008660490795
+    second: AmmoHealthGold_PNG_14
+  - first:
+      213: -4971069752930859084
+    second: AmmoHealthGold_PNG_15
+  - first:
+      213: -3743424880959530681
+    second: AmmoHealthGold_PNG_16
+  - first:
+      213: 8542573875826714475
+    second: AmmoHealthGold_PNG_17
+  - first:
+      213: 5961254702585581982
+    second: AmmoHealthGold_PNG_18
+  - first:
+      213: -4892652899421851924
+    second: AmmoHealthGold_PNG_19
+  - first:
+      213: 2444072789079081491
+    second: AmmoHealthGold_PNG_20
+  - first:
+      213: -171790533252532513
+    second: AmmoHealthGold_PNG_21
+  - first:
+      213: 5231574792510982786
+    second: AmmoHealthGold_PNG_22
+  - first:
+      213: -5299379582000679610
+    second: AmmoHealthGold_PNG_23
+  - first:
+      213: 5403436970307012777
+    second: AmmoHealthGold_PNG_24
+  - first:
+      213: -8983194218611382447
+    second: AmmoHealthGold_PNG_25
+  - first:
+      213: -5822135645624761283
+    second: AmmoHealthGold_PNG_26
+  - first:
+      213: 7185771612267725043
+    second: AmmoHealthGold_PNG_27
+  - first:
+      213: 2476198206399089341
+    second: AmmoHealthGold_PNG_28
+  - first:
+      213: -5208891836749318631
+    second: AmmoHealthGold_PNG_29
+  - first:
+      213: 7420132319997398193
+    second: AmmoHealthGold_PNG_30
+  - first:
+      213: 7520006990609527064
+    second: AmmoHealthGold_PNG_31
+  - first:
+      213: -6045081562136914216
+    second: AmmoHealthGold_PNG_32
+  - first:
+      213: 658716628247625479
+    second: AmmoHealthGold_PNG_33
+  - first:
+      213: 8650073141783199274
+    second: AmmoHealthGold_PNG_34
+  - first:
+      213: 5577318525873101444
+    second: AmmoHealthGold_PNG_35
+  - first:
+      213: 1340604557784114962
+    second: AmmoHealthGold_PNG_36
+  - first:
+      213: 8017461517881482954
+    second: AmmoHealthGold_PNG_37
+  - first:
+      213: 5828062038582829252
+    second: AmmoHealthGold_PNG_38
+  - first:
+      213: 157378623510408863
+    second: AmmoHealthGold_PNG_39
+  - first:
+      213: 4130121085979522023
+    second: AmmoHealthGold_PNG_40
+  - first:
+      213: 8403373901177004693
+    second: AmmoHealthGold_PNG_41
+  - first:
+      213: 6019891594769882671
+    second: AmmoHealthGold_PNG_42
+  - first:
+      213: -1879829180488601253
+    second: AmmoHealthGold_PNG_43
+  - first:
+      213: -3516017545044565852
+    second: AmmoHealthGold_PNG_44
+  - first:
+      213: 9078540465975139244
+    second: AmmoHealthGold_PNG_45
+  - first:
+      213: 1936878316008034382
+    second: AmmoHealthGold_PNG_46
+  - first:
+      213: 7900838008847212669
+    second: AmmoHealthGold_PNG_47
+  - first:
+      213: -8615340910479400684
+    second: AmmoHealthGold_PNG_48
+  - first:
+      213: -6558942289399396189
+    second: AmmoHealthGold_PNG_49
+  - first:
+      213: 7535787318133431928
+    second: AmmoHealthGold_PNG_50
+  - first:
+      213: 100657319399212980
+    second: AmmoHealthGold_PNG_51
+  - first:
+      213: 2053207820266727371
+    second: AmmoHealthGold_PNG_52
+  - first:
+      213: -8089769813150093541
+    second: AmmoHealthGold_PNG_53
+  - first:
+      213: 4897810742161561205
+    second: AmmoHealthGold_PNG_54
+  - first:
+      213: 6957846737770682159
+    second: AmmoHealthGold_PNG_55
+  - first:
+      213: 5767441601901430450
+    second: AmmoHealthGold_PNG_56
+  - first:
+      213: 3233011492431058034
+    second: AmmoHealthGold_PNG_57
+  - first:
+      213: 7833992095724456745
+    second: AmmoHealthGold_PNG_58
+  - first:
+      213: -3825147179057843892
+    second: AmmoHealthGold_PNG_59
+  - first:
+      213: -7296104169985407230
+    second: AmmoHealthGold_PNG_60
+  - first:
+      213: -4549906335430896403
+    second: AmmoHealthGold_PNG_61
+  - first:
+      213: -4454956601475960406
+    second: AmmoHealthGold_PNG_62
+  - first:
+      213: 7345146284488933377
+    second: AmmoHealthGold_PNG_63
+  - first:
+      213: 7488652600631098562
+    second: AmmoHealthGold_PNG_64
+  - first:
+      213: 6160599105539128950
+    second: AmmoHealthGold_PNG_65
+  - first:
+      213: -8681265840531083297
+    second: AmmoHealthGold_PNG_66
+  - first:
+      213: 1690221301759927109
+    second: AmmoHealthGold_PNG_67
+  - first:
+      213: 663550789388455561
+    second: AmmoHealthGold_PNG_68
+  - first:
+      213: 652204774322659809
+    second: AmmoHealthGold_PNG_69
+  - first:
+      213: 5788476646223571319
+    second: AmmoHealthGold_PNG_70
+  - first:
+      213: 1939393790588591749
+    second: AmmoHealthGold_PNG_71
+  - first:
+      213: 2862545761937651551
+    second: AmmoHealthGold_PNG_72
+  - first:
+      213: 3732231439601112538
+    second: AmmoHealthGold_PNG_73
+  - first:
+      213: -8370600652840075235
+    second: AmmoHealthGold_PNG_74
+  - first:
+      213: 2775368180498401696
+    second: AmmoHealthGold_PNG_75
+  - first:
+      213: -5939757578896321434
+    second: AmmoHealthGold_PNG_76
+  - first:
+      213: 3560635166732956818
+    second: AmmoHealthGold_PNG_77
+  - first:
+      213: 9138183688030684832
+    second: AmmoHealthGold_PNG_78
+  - first:
+      213: -6662837417083790900
+    second: AmmoHealthGold_PNG_79
+  - first:
+      213: 5880937691750600781
+    second: AmmoHealthGold_PNG_80
+  - first:
+      213: -1752875788018904015
+    second: AmmoHealthGold_PNG_81
+  - first:
+      213: -3957019267005297606
+    second: AmmoHealthGold_PNG_82
+  - first:
+      213: 6540709944123943399
+    second: AmmoHealthGold_PNG_83
+  - first:
+      213: -8704417326800828860
+    second: AmmoHealthGold_PNG_84
+  - first:
+      213: -4308051346989164663
+    second: AmmoHealthGold_PNG_85
+  - first:
+      213: -4878291699637234871
+    second: AmmoHealthGold_PNG_86
+  - first:
+      213: 3874062762081513568
+    second: AmmoHealthGold_PNG_87
+  - first:
+      213: -2828489828380049252
+    second: AmmoHealthGold_PNG_88
+  - first:
+      213: -2278392061307395341
+    second: AmmoHealthGold_PNG_89
+  - first:
+      213: -7242015190999195604
+    second: AmmoHealthGold_PNG_90
+  - first:
+      213: -8507859382751922447
+    second: AmmoHealthGold_PNG_91
+  - first:
+      213: 4490387886381067370
+    second: AmmoHealthGold_PNG_92
+  - first:
+      213: 4690179460693225092
+    second: AmmoHealthGold_PNG_93
+  - first:
+      213: 4671912560825408846
+    second: AmmoHealthGold_PNG_94
+  - first:
+      213: -2809039815563759676
+    second: AmmoHealthGold_PNG_95
+  - first:
+      213: 8659879504131162884
+    second: AmmoHealthGold_PNG_96
+  - first:
+      213: -5179274001337956348
+    second: AmmoHealthGold_PNG_97
+  - first:
+      213: 6270350892286404073
+    second: AmmoHealthGold_PNG_98
+  - first:
+      213: -5868635728531232255
+    second: AmmoHealthGold_PNG_99
+  - first:
+      213: -29607131749576812
+    second: AmmoHealthGold_PNG_100
+  - first:
+      213: -7908657776909238316
+    second: AmmoHealthGold_PNG_101
+  - first:
+      213: -7718164530739050222
+    second: AmmoHealthGold_PNG_102
+  - first:
+      213: -5726701916652695601
+    second: AmmoHealthGold_PNG_103
+  - first:
+      213: 4532578554316165455
+    second: AmmoHealthGold_PNG_104
+  - first:
+      213: -158967637097620771
+    second: AmmoHealthGold_PNG_105
+  - first:
+      213: 4816523235170265743
+    second: AmmoHealthGold_PNG_106
+  - first:
+      213: 5276274026443211434
+    second: AmmoHealthGold_PNG_107
+  - first:
+      213: 2606647579598470404
+    second: AmmoHealthGold_PNG_108
+  - first:
+      213: 3337563117005945868
+    second: AmmoHealthGold_PNG_109
+  - first:
+      213: -2943079345749342336
+    second: AmmoHealthGold_PNG_110
+  - first:
+      213: 5593774687101391210
+    second: AmmoHealthGold_PNG_111
+  - first:
+      213: 1319792408465514523
+    second: AmmoHealthGold_PNG_112
+  - first:
+      213: 5368418545645346440
+    second: AmmoHealthGold_PNG_113
+  - first:
+      213: -2966485408495997859
+    second: AmmoHealthGold_PNG_114
+  - first:
+      213: 8316624123432192852
+    second: AmmoHealthGold_PNG_115
+  - first:
+      213: 8607034556636587225
+    second: AmmoHealthGold_PNG_116
+  - first:
+      213: -1309394515085889469
+    second: AmmoHealthGold_PNG_117
+  - first:
+      213: 2321025898601087147
+    second: AmmoHealthGold_PNG_118
+  - first:
+      213: 4717114814821739775
+    second: AmmoHealthGold_PNG_119
+  - first:
+      213: -1402915446421719468
+    second: AmmoHealthGold_PNG_120
+  - first:
+      213: -526315314141291638
+    second: AmmoHealthGold_PNG_121
+  - first:
+      213: 5752908767107373452
+    second: AmmoHealthGold_PNG_122
+  - first:
+      213: 2806481726925070379
+    second: AmmoHealthGold_PNG_123
+  - first:
+      213: -7047994577147255532
+    second: AmmoHealthGold_PNG_124
+  - first:
+      213: -5519741037944038308
+    second: AmmoHealthGold_PNG_125
+  - first:
+      213: 5561854244010894171
+    second: AmmoHealthGold_PNG_126
+  - first:
+      213: -2909188040694407574
+    second: AmmoHealthGold_PNG_127
+  - first:
+      213: 7363993085882796566
+    second: AmmoHealthGold_PNG_128
+  - first:
+      213: -6106199619480337226
+    second: AmmoHealthGold_PNG_129
+  - first:
+      213: -571755935728180125
+    second: AmmoHealthGold_PNG_130
+  - first:
+      213: 8483115052009472782
+    second: AmmoHealthGold_PNG_131
+  - first:
+      213: 5744440411948229779
+    second: AmmoHealthGold_PNG_132
+  - first:
+      213: -7249973805331971884
+    second: AmmoHealthGold_PNG_133
+  - first:
+      213: -2759213198007793828
+    second: AmmoHealthGold_PNG_134
+  - first:
+      213: 886061161314809863
+    second: AmmoHealthGold_PNG_135
+  - first:
+      213: -2789140527221344846
+    second: AmmoHealthGold_PNG_136
+  - first:
+      213: 7166598585436878972
+    second: AmmoHealthGold_PNG_137
+  - first:
+      213: -6059170326532015608
+    second: AmmoHealthGold_PNG_138
+  - first:
+      213: 3063361869952492500
+    second: AmmoHealthGold_PNG_139
+  - first:
+      213: 5102892362605897846
+    second: AmmoHealthGold_PNG_140
+  - first:
+      213: -5948308650500748442
+    second: AmmoHealthGold_PNG_141
+  - first:
+      213: -3417886184581330004
+    second: AmmoHealthGold_PNG_142
+  - first:
+      213: -2376147641016690901
+    second: AmmoHealthGold_PNG_143
+  - first:
+      213: 650026100250907468
+    second: AmmoHealthGold_PNG_144
+  - first:
+      213: 2844893145310430967
+    second: AmmoHealthGold_PNG_145
+  - first:
+      213: 184345265459626774
+    second: AmmoHealthGold_PNG_146
+  - first:
+      213: 4457361102487603521
+    second: AmmoHealthGold_PNG_147
+  - first:
+      213: -2246885876144010221
+    second: AmmoHealthGold_PNG_148
+  - first:
+      213: 1508216577596636130
+    second: AmmoHealthGold_PNG_149
+  - first:
+      213: 158107086497797175
+    second: AmmoHealthGold_PNG_150
+  - first:
+      213: -8681135708313816700
+    second: AmmoHealthGold_PNG_151
+  - first:
+      213: 8564158193522826625
+    second: AmmoHealthGold_PNG_152
+  - first:
+      213: 4888484982597663724
+    second: AmmoHealthGold_PNG_153
+  - first:
+      213: 2694654304438713377
+    second: AmmoHealthGold_PNG_154
+  - first:
+      213: -7228543596123959808
+    second: AmmoHealthGold_PNG_155
+  - first:
+      213: 7331771060593057964
+    second: AmmoHealthGold_PNG_156
+  - first:
+      213: -3848273801751986345
+    second: AmmoHealthGold_PNG_157
+  - first:
+      213: 2226631756378266267
+    second: AmmoHealthGold_PNG_158
+  - first:
+      213: 4583106336849127910
+    second: AmmoHealthGold_PNG_159
+  - first:
+      213: 7396816182351188541
+    second: AmmoHealthGold_PNG_160
+  - first:
+      213: 567738762788481283
+    second: AmmoHealthGold_PNG_161
+  - first:
+      213: 7498698392074473933
+    second: AmmoHealthGold_PNG_162
+  - first:
+      213: -5177201432308455846
+    second: AmmoHealthGold_PNG_163
+  - first:
+      213: -2842644326971252423
+    second: AmmoHealthGold_PNG_164
+  - first:
+      213: 6985747643345201526
+    second: AmmoHealthGold_PNG_165
+  - first:
+      213: -1953243040478463479
+    second: AmmoHealthGold_PNG_166
+  - first:
+      213: -6878752366378458503
+    second: AmmoHealthGold_PNG_167
+  - first:
+      213: 5375190674863899681
+    second: AmmoHealthGold_PNG_168
+  - first:
+      213: -2426937029719810661
+    second: AmmoHealthGold_PNG_169
+  - first:
+      213: 7796589140816726481
+    second: AmmoHealthGold_PNG_170
+  - first:
+      213: 8573313069113527158
+    second: AmmoHealthGold_PNG_171
+  - first:
+      213: 6903059293601984429
+    second: AmmoHealthGold_PNG_172
+  - first:
+      213: -8606593557679359361
+    second: AmmoHealthGold_PNG_173
+  - first:
+      213: -8967913774874064027
+    second: AmmoHealthGold_PNG_174
+  - first:
+      213: 2443893450200333793
+    second: AmmoHealthGold_PNG_175
+  - first:
+      213: -2446899686088869507
+    second: AmmoHealthGold_PNG_176
+  - first:
+      213: 7423251258010289533
+    second: AmmoHealthGold_PNG_177
+  - first:
+      213: -3764074242946963066
+    second: AmmoHealthGold_PNG_178
+  - first:
+      213: 100898873101518180
+    second: AmmoHealthGold_PNG_179
+  - first:
+      213: -2414633473375650854
+    second: AmmoHealthGold_PNG_180
+  - first:
+      213: 3188570417259396513
+    second: AmmoHealthGold_PNG_181
+  - first:
+      213: -3530924850647281298
+    second: AmmoHealthGold_PNG_182
+  - first:
+      213: -3692589547381785938
+    second: AmmoHealthGold_PNG_183
+  - first:
+      213: -180534480454851202
+    second: AmmoHealthGold_PNG_184
+  - first:
+      213: -4874865213785362575
+    second: AmmoHealthGold_PNG_185
+  - first:
+      213: 6793418911014687562
+    second: AmmoHealthGold_PNG_186
+  - first:
+      213: 1355042427768383371
+    second: AmmoHealthGold_PNG_187
+  - first:
+      213: 499574515736337322
+    second: AmmoHealthGold_PNG_188
+  - first:
+      213: -2132099202166444601
+    second: AmmoHealthGold_PNG_189
+  - first:
+      213: -4173230677818446605
+    second: AmmoHealthGold_PNG_190
+  - first:
+      213: -2208733143207455968
+    second: AmmoHealthGold_PNG_191
+  - first:
+      213: 7625459089021118125
+    second: AmmoHealthGold_PNG_192
+  - first:
+      213: -1985611224948301950
+    second: AmmoHealthGold_PNG_193
+  - first:
+      213: -168217458705237112
+    second: AmmoHealthGold_PNG_194
+  - first:
+      213: -7938167546263526616
+    second: AmmoHealthGold_PNG_195
+  - first:
+      213: 155005585157301175
+    second: AmmoHealthGold_PNG_196
+  - first:
+      213: 2839339500363787954
+    second: AmmoHealthGold_PNG_197
+  - first:
+      213: 322739279824977015
+    second: AmmoHealthGold_PNG_198
+  - first:
+      213: -1205548232534233682
+    second: AmmoHealthGold_PNG_199
+  - first:
+      213: 1187319052455620709
+    second: AmmoHealthGold_PNG_200
+  - first:
+      213: -2530837474564989295
+    second: AmmoHealthGold_PNG_201
+  - first:
+      213: 990913302815800157
+    second: AmmoHealthGold_PNG_202
+  - first:
+      213: -6076446825535606084
+    second: AmmoHealthGold_PNG_203
+  - first:
+      213: -3113319490546964282
+    second: AmmoHealthGold_PNG_204
+  - first:
+      213: 4123422698039938553
+    second: AmmoHealthGold_PNG_205
+  - first:
+      213: -5936168474906509505
+    second: AmmoHealthGold_PNG_206
+  - first:
+      213: -5065914160105383594
+    second: AmmoHealthGold_PNG_207
+  - first:
+      213: -4236720730546418164
+    second: AmmoHealthGold_PNG_208
+  - first:
+      213: 7588248229410557085
+    second: AmmoHealthGold_PNG_209
+  - first:
+      213: 7446952617233032361
+    second: AmmoHealthGold_PNG_210
+  - first:
+      213: 7018616911623007870
+    second: AmmoHealthGold_PNG_211
+  - first:
+      213: 46034843579424322
+    second: AmmoHealthGold_PNG_212
+  - first:
+      213: -4614632443128232646
+    second: AmmoHealthGold_PNG_213
+  - first:
+      213: -3277250658685950212
+    second: AmmoHealthGold_PNG_214
+  - first:
+      213: 1320989593200947836
+    second: AmmoHealthGold_PNG_215
+  - first:
+      213: -2465333993589071875
+    second: AmmoHealthGold_PNG_216
+  - first:
+      213: 7594689557837566686
+    second: AmmoHealthGold_PNG_217
+  - first:
+      213: -1901216392285498726
+    second: AmmoHealthGold_PNG_218
+  - first:
+      213: 9158991182931394569
+    second: AmmoHealthGold_PNG_219
+  - first:
+      213: 2810627895634330924
+    second: AmmoHealthGold_PNG_220
+  - first:
+      213: -1271909197255548521
+    second: AmmoHealthGold_PNG_221
+  - first:
+      213: -7559869116630593324
+    second: AmmoHealthGold_PNG_222
+  - first:
+      213: 2522349767536883198
+    second: AmmoHealthGold_PNG_223
+  - first:
+      213: -3655136243024087277
+    second: AmmoHealthGold_PNG_224
+  - first:
+      213: 3390390093351178744
+    second: AmmoHealthGold_PNG_225
+  - first:
+      213: -3458191792973500464
+    second: AmmoHealthGold_PNG_226
+  - first:
+      213: 5139892072065869578
+    second: AmmoHealthGold_PNG_227
+  - first:
+      213: 6188517009021319425
+    second: AmmoHealthGold_PNG_228
+  - first:
+      213: -1530584037963188652
+    second: AmmoHealthGold_PNG_229
+  - first:
+      213: -1692238078781347461
+    second: AmmoHealthGold_PNG_230
+  - first:
+      213: 7045588885928430993
+    second: AmmoHealthGold_PNG_231
+  - first:
+      213: 686618717472209451
+    second: AmmoHealthGold_PNG_232
+  - first:
+      213: -2594174388286842674
+    second: AmmoHealthGold_PNG_233
+  - first:
+      213: 8233297146162276992
+    second: AmmoHealthGold_PNG_234
+  - first:
+      213: 7583316707844954554
+    second: AmmoHealthGold_PNG_235
+  - first:
+      213: -7948593465150849063
+    second: AmmoHealthGold_PNG_236
+  - first:
+      213: 7695875870191384868
+    second: AmmoHealthGold_PNG_237
+  - first:
+      213: 3102947037050919425
+    second: AmmoHealthGold_PNG_238
+  - first:
+      213: -9221216469035138779
+    second: AmmoHealthGold_PNG_239
+  - first:
+      213: -6314261953581591238
+    second: AmmoHealthGold_PNG_240
+  - first:
+      213: 7093980472047188367
+    second: AmmoHealthGold_PNG_241
+  - first:
+      213: 5530201234661923730
+    second: AmmoHealthGold_PNG_242
+  - first:
+      213: 6307539438927199331
+    second: AmmoHealthGold_PNG_243
+  - first:
+      213: 7532780706482568227
+    second: AmmoHealthGold_PNG_244
+  - first:
+      213: 2125279774568631626
+    second: AmmoHealthGold_PNG_245
+  - first:
+      213: -5717820223859519721
+    second: AmmoHealthGold_PNG_246
+  - first:
+      213: -8805195941591721029
+    second: AmmoHealthGold_PNG_247
+  - first:
+      213: 5117417193965251888
+    second: AmmoHealthGold_PNG_248
+  - first:
+      213: -6694824658644530716
+    second: AmmoHealthGold_PNG_249
+  - first:
+      213: 7541321750818608726
+    second: AmmoHealthGold_PNG_250
+  - first:
+      213: -588159909025741789
+    second: AmmoHealthGold_PNG_251
+  - first:
+      213: 7821622613259141121
+    second: AmmoHealthGold_PNG_252
+  - first:
+      213: 3595271218362660504
+    second: AmmoHealthGold_PNG_253
+  - first:
+      213: -6723517764629193712
+    second: AmmoHealthGold_PNG_254
+  - first:
+      213: 4750570602110807641
+    second: AmmoHealthGold_PNG_255
+  - first:
+      213: 1512210237820379975
+    second: AmmoHealthGold_PNG_256
+  - first:
+      213: -6787892487632365664
+    second: AmmoHealthGold_PNG_257
+  - first:
+      213: -4612594683671614769
+    second: AmmoHealthGold_PNG_258
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11644c49cea578b80800000000000000
+      internalID: -8392639408426957295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa83dd6e6e20e4cb6e3504ba98ae69
+      internalID: -1118982494468544335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c356f3879a646a43be2c3b0910ed9a1
+      internalID: -5826249455807843247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e549a0a9c8e24a8bc38553c376082
+      internalID: 6032429625536278290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4255b6788f1854f848572281ecd7db
+      internalID: -7504063930194533867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a342551f0c25a7b4b8473826aaec613e
+      internalID: -331030538069073212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c08b69c3705e489e6c436048eafa5
+      internalID: -8321499469476014728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b26802a71757c04493b2e1febdde6c9
+      internalID: -5338806691662734517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_8
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1090
+        width: 202
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbaf810be01d9249ab72079cc7cc05c
+      internalID: 8840813760131662425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 865
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d7f84f7626634f927e9ca5b30e45c
+      internalID: 7869331907246548449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 865
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c782a23d83944e4c8027dcda0b7c65d
+      internalID: -4193459581426302343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 863
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df86e5152c1a2f4d8748e5c4ccf265a
+      internalID: 5795149832556312181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 860
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76256a877d596fb48b3da1a55b6ddb05
+      internalID: -4126941667332668318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_13
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 860
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e1e0200172044caa6e93d6b4632df
+      internalID: 3473627378247843070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 858
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c01418f641094b9c87f96c940de96
+      internalID: -3229810008660490795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 863
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0554ce87040b4a87cc361ef85c46b
+      internalID: -4971069752930859084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_16
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 862
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1858f37f503a4b830565308b57c83
+      internalID: -3743424880959530681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_17
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 860
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794850c3dffc77740b9ff7fe23e29fd2
+      internalID: 8542573875826714475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_18
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 655
+        width: 180
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a13d1447a158f45ba310c96a03fa88
+      internalID: 5961254702585581982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_19
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 650
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e4a40e55276f44a0ce30dabfab042
+      internalID: -4892652899421851924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_20
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 650
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cabe8d7d435dd14d8f2024cc728af9a
+      internalID: 2444072789079081491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_21
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 653
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dccc8e979a92044cbd802b0b278fa3b
+      internalID: -171790533252532513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_22
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 643
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d69b20fa038e4abe0b3993ad79fd8
+      internalID: 5231574792510982786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_23
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 653
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc34dcadcf48a644afc34c5509b3842
+      internalID: -5299379582000679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_24
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 657
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60210233397b37d4285d98301469013b
+      internalID: 5403436970307012777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_25
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 647
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbe31b5bf90334eabbc3171f88d8e6
+      internalID: -8983194218611382447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 645
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5baa5dec5abc90438268fe802134812
+      internalID: -5822135645624761283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 648
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229510a2074d5af4c9075c1cccced610
+      internalID: 7185771612267725043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 648
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743eaf7a2427b04cb8fb862a1896762
+      internalID: 2476198206399089341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 643
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e44c968c907243af7fb620e30f588
+      internalID: -5208891836749318631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 645
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff01fff19e404a46b940d88dc2282a4
+      internalID: 7420132319997398193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 277
+        width: 298
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa5b78562af9cd4e92f61f3632cc9bc
+      internalID: 7520006990609527064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 285
+        width: 298
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6acd7a1be38274bbedf7d7f25c8601
+      internalID: -6045081562136914216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_33
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 298
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681987ac56a46b144943ad87786cb7e2
+      internalID: 658716628247625479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_34
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 483
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b03de15de20854a976e0ecb373d201
+      internalID: 8650073141783199274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_35
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 481
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668bab3332839e94bb2e81663274395a
+      internalID: 5577318525873101444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_36
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 483
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6f4e1ea4f68f4983f4431c84ac95c
+      internalID: 1340604557784114962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_37
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 488
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba9f1f488929244086d5c5d27edca88
+      internalID: 8017461517881482954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_38
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 481
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8392c523136d940bf98dafea78d971
+      internalID: 5828062038582829252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_39
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 317
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4a0175a4bc8c438bd3121031aa92b
+      internalID: 157378623510408863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_40
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 328
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf101c36158a953439aa3836346ab09e
+      internalID: 4130121085979522023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_41
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 328
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf96ad5ad55c1d45988958a96612835
+      internalID: 8403373901177004693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_42
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 325
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dbb0fa6aee25046b89b2d0d2f44afb
+      internalID: 6019891594769882671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_43
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 182
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb9a4382208299428cc4e51586158cc
+      internalID: -1879829180488601253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_44
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 182
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a2e40f65d30440a04d77c0d8e7108
+      internalID: -3516017545044565852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoHealthGold_PNG_45
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 182
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f6fb853bcdf740ae32f7f290fd5f8
+      internalID: 9078540465975139244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44aaf8b4dfe5bf1478019a8208a099f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":1333.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AmmoHealthGold_PNG_0: -8392639408426957295
+      AmmoHealthGold_PNG_1: -1118982494468544335
+      AmmoHealthGold_PNG_10: -4193459581426302343
+      AmmoHealthGold_PNG_11: 5795149832556312181
+      AmmoHealthGold_PNG_12: -4126941667332668318
+      AmmoHealthGold_PNG_13: 3473627378247843070
+      AmmoHealthGold_PNG_14: -3229810008660490795
+      AmmoHealthGold_PNG_15: -4971069752930859084
+      AmmoHealthGold_PNG_16: -3743424880959530681
+      AmmoHealthGold_PNG_17: 8542573875826714475
+      AmmoHealthGold_PNG_18: 5961254702585581982
+      AmmoHealthGold_PNG_19: -4892652899421851924
+      AmmoHealthGold_PNG_2: -5826249455807843247
+      AmmoHealthGold_PNG_20: 2444072789079081491
+      AmmoHealthGold_PNG_21: -171790533252532513
+      AmmoHealthGold_PNG_22: 5231574792510982786
+      AmmoHealthGold_PNG_23: -5299379582000679610
+      AmmoHealthGold_PNG_24: 5403436970307012777
+      AmmoHealthGold_PNG_25: -8983194218611382447
+      AmmoHealthGold_PNG_26: -5822135645624761283
+      AmmoHealthGold_PNG_27: 7185771612267725043
+      AmmoHealthGold_PNG_28: 2476198206399089341
+      AmmoHealthGold_PNG_29: -5208891836749318631
+      AmmoHealthGold_PNG_3: 6032429625536278290
+      AmmoHealthGold_PNG_30: 7420132319997398193
+      AmmoHealthGold_PNG_31: 7520006990609527064
+      AmmoHealthGold_PNG_32: -6045081562136914216
+      AmmoHealthGold_PNG_33: 658716628247625479
+      AmmoHealthGold_PNG_34: 8650073141783199274
+      AmmoHealthGold_PNG_35: 5577318525873101444
+      AmmoHealthGold_PNG_36: 1340604557784114962
+      AmmoHealthGold_PNG_37: 8017461517881482954
+      AmmoHealthGold_PNG_38: 5828062038582829252
+      AmmoHealthGold_PNG_39: 157378623510408863
+      AmmoHealthGold_PNG_4: -7504063930194533867
+      AmmoHealthGold_PNG_40: 4130121085979522023
+      AmmoHealthGold_PNG_41: 8403373901177004693
+      AmmoHealthGold_PNG_42: 6019891594769882671
+      AmmoHealthGold_PNG_43: -1879829180488601253
+      AmmoHealthGold_PNG_44: -3516017545044565852
+      AmmoHealthGold_PNG_45: 9078540465975139244
+      AmmoHealthGold_PNG_5: -331030538069073212
+      AmmoHealthGold_PNG_6: -8321499469476014728
+      AmmoHealthGold_PNG_7: -5338806691662734517
+      AmmoHealthGold_PNG_8: 8840813760131662425
+      AmmoHealthGold_PNG_9: 7869331907246548449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

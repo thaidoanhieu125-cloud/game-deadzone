@@ -1,0 +1,5356 @@
+fileFormatVersion: 2
+guid: 701549dc4c2014842958de38dd5aad38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7187933729932824749
+    second: Gun_PNG_Ok 2_0
+  - first:
+      213: 4445056414918874520
+    second: Gun_PNG_Ok 2_1
+  - first:
+      213: -4870559669628097820
+    second: Gun_PNG_Ok 2_2
+  - first:
+      213: -686661270265037919
+    second: Gun_PNG_Ok 2_3
+  - first:
+      213: -4538119369742449475
+    second: Gun_PNG_Ok 2_4
+  - first:
+      213: -6270102144953758795
+    second: Gun_PNG_Ok 2_5
+  - first:
+      213: 8889193440627530765
+    second: Gun_PNG_Ok 2_6
+  - first:
+      213: -4242205937990797537
+    second: Gun_PNG_Ok 2_7
+  - first:
+      213: 1970064374556800070
+    second: Gun_PNG_Ok 2_8
+  - first:
+      213: 2109365731021294718
+    second: Gun_PNG_Ok 2_9
+  - first:
+      213: 7247547031669808401
+    second: Gun_PNG_Ok 2_10
+  - first:
+      213: -4287545506705193867
+    second: Gun_PNG_Ok 2_11
+  - first:
+      213: -5386563947410084560
+    second: Gun_PNG_Ok 2_12
+  - first:
+      213: -7120530171192873150
+    second: Gun_PNG_Ok 2_13
+  - first:
+      213: 3346488444858940663
+    second: Gun_PNG_Ok 2_14
+  - first:
+      213: -3084917132770554233
+    second: Gun_PNG_Ok 2_15
+  - first:
+      213: 3119535391455991222
+    second: Gun_PNG_Ok 2_16
+  - first:
+      213: -5912094766910594284
+    second: Gun_PNG_Ok 2_17
+  - first:
+      213: 7131540741900053990
+    second: Gun_PNG_Ok 2_18
+  - first:
+      213: 7048664047573545905
+    second: Gun_PNG_Ok 2_19
+  - first:
+      213: 2609839417959747767
+    second: Gun_PNG_Ok 2_20
+  - first:
+      213: 1961492904762827789
+    second: Gun_PNG_Ok 2_21
+  - first:
+      213: 1396418842585402048
+    second: Gun_PNG_Ok 2_22
+  - first:
+      213: -2943456262209046834
+    second: Gun_PNG_Ok 2_23
+  - first:
+      213: -1653440275867415358
+    second: Gun_PNG_Ok 2_24
+  - first:
+      213: 3382762196876822889
+    second: Gun_PNG_Ok 2_25
+  - first:
+      213: 4164285146347776127
+    second: Gun_PNG_Ok 2_26
+  - first:
+      213: -2753083434434917741
+    second: Gun_PNG_Ok 2_27
+  - first:
+      213: 8731102522653906783
+    second: Gun_PNG_Ok 2_28
+  - first:
+      213: 8312177612996768422
+    second: Gun_PNG_Ok 2_29
+  - first:
+      213: -6802053262943933862
+    second: Gun_PNG_Ok 2_30
+  - first:
+      213: -3318571220351832459
+    second: Gun_PNG_Ok 2_31
+  - first:
+      213: -3681739136241429553
+    second: Gun_PNG_Ok 2_32
+  - first:
+      213: 3270189768641867550
+    second: Gun_PNG_Ok 2_33
+  - first:
+      213: 2181887643214931411
+    second: Gun_PNG_Ok 2_34
+  - first:
+      213: -2346382217198803175
+    second: Gun_PNG_Ok 2_35
+  - first:
+      213: -4209180864570316027
+    second: Gun_PNG_Ok 2_36
+  - first:
+      213: 8866722423360873243
+    second: Gun_PNG_Ok 2_37
+  - first:
+      213: -2087310892615629205
+    second: Gun_PNG_Ok 2_38
+  - first:
+      213: 389355570701524633
+    second: Gun_PNG_Ok 2_39
+  - first:
+      213: 3247616777624187390
+    second: Gun_PNG_Ok 2_40
+  - first:
+      213: -7678559901370241701
+    second: Gun_PNG_Ok 2_41
+  - first:
+      213: -735792735421219528
+    second: Gun_PNG_Ok 2_42
+  - first:
+      213: -4774671146959738350
+    second: Gun_PNG_Ok 2_43
+  - first:
+      213: 3960319264886058788
+    second: Gun_PNG_Ok 2_44
+  - first:
+      213: -3814566614218861972
+    second: Gun_PNG_Ok 2_45
+  - first:
+      213: -3541673610809306362
+    second: Gun_PNG_Ok 2_46
+  - first:
+      213: 7388073887056529704
+    second: Gun_PNG_Ok 2_47
+  - first:
+      213: 2402375264036379012
+    second: Gun_PNG_Ok 2_48
+  - first:
+      213: 6140073897459849000
+    second: Gun_PNG_Ok 2_49
+  - first:
+      213: -3958451108085410925
+    second: Gun_PNG_Ok 2_50
+  - first:
+      213: -5305286562212013578
+    second: Gun_PNG_Ok 2_51
+  - first:
+      213: -4469455047422988102
+    second: Gun_PNG_Ok 2_52
+  - first:
+      213: 1315177155800741216
+    second: Gun_PNG_Ok 2_53
+  - first:
+      213: 8587330742711646891
+    second: Gun_PNG_Ok 2_54
+  - first:
+      213: -6410137614712469186
+    second: Gun_PNG_Ok 2_55
+  - first:
+      213: 4087334815088832286
+    second: Gun_PNG_Ok 2_56
+  - first:
+      213: -3637356042758107699
+    second: Gun_PNG_Ok 2_57
+  - first:
+      213: -3388101993371679234
+    second: Gun_PNG_Ok 2_58
+  - first:
+      213: -6909115318446047876
+    second: Gun_PNG_Ok 2_59
+  - first:
+      213: -7786719466959274277
+    second: Gun_PNG_Ok 2_60
+  - first:
+      213: 5854960567075276439
+    second: Gun_PNG_Ok 2_61
+  - first:
+      213: -7095596992419138906
+    second: Gun_PNG_Ok 2_62
+  - first:
+      213: 2440852011390279707
+    second: Gun_PNG_Ok 2_63
+  - first:
+      213: 7920961897305729109
+    second: Gun_PNG_Ok 2_64
+  - first:
+      213: -4244135952811966909
+    second: Gun_PNG_Ok 2_65
+  - first:
+      213: -1338138294740870600
+    second: Gun_PNG_Ok 2_66
+  - first:
+      213: 1745603661000576721
+    second: Gun_PNG_Ok 2_67
+  - first:
+      213: -8919232722596416044
+    second: Gun_PNG_Ok 2_68
+  - first:
+      213: 6352403562901411254
+    second: Gun_PNG_Ok 2_69
+  - first:
+      213: 1823016588072995274
+    second: Gun_PNG_Ok 2_70
+  - first:
+      213: 3473207477977943063
+    second: Gun_PNG_Ok 2_71
+  - first:
+      213: 2054273526689292736
+    second: Gun_PNG_Ok 2_72
+  - first:
+      213: -8150102246403456699
+    second: Gun_PNG_Ok 2_73
+  - first:
+      213: 5348857365082307789
+    second: Gun_PNG_Ok 2_74
+  - first:
+      213: 6727841109109697486
+    second: Gun_PNG_Ok 2_75
+  - first:
+      213: 7693309005525112337
+    second: Gun_PNG_Ok 2_76
+  - first:
+      213: -30235039535653653
+    second: Gun_PNG_Ok 2_77
+  - first:
+      213: 2456158534089435736
+    second: Gun_PNG_Ok 2_78
+  - first:
+      213: -7972641793138196619
+    second: Gun_PNG_Ok 2_79
+  - first:
+      213: 890615174294725005
+    second: Gun_PNG_Ok 2_80
+  - first:
+      213: 5548888846026164530
+    second: Gun_PNG_Ok 2_81
+  - first:
+      213: -4995633108946310859
+    second: Gun_PNG_Ok 2_82
+  - first:
+      213: -7671544555304277319
+    second: Gun_PNG_Ok 2_83
+  - first:
+      213: 7087991467552122565
+    second: Gun_PNG_Ok 2_84
+  - first:
+      213: -7059347342687870330
+    second: Gun_PNG_Ok 2_85
+  - first:
+      213: -7321770556836973092
+    second: Gun_PNG_Ok 2_86
+  - first:
+      213: -6519224623260194774
+    second: Gun_PNG_Ok 2_87
+  - first:
+      213: 2864016054438422148
+    second: Gun_PNG_Ok 2_88
+  - first:
+      213: 4457354586406509205
+    second: Gun_PNG_Ok 2_89
+  - first:
+      213: -5004096000888419099
+    second: Gun_PNG_Ok 2_90
+  - first:
+      213: -5791415611728113239
+    second: Gun_PNG_Ok 2_91
+  - first:
+      213: 2039908816927765285
+    second: Gun_PNG_Ok 2_92
+  - first:
+      213: 6908632837710660333
+    second: Gun_PNG_Ok 2_93
+  - first:
+      213: 6024280499889200727
+    second: Gun_PNG_Ok 2_94
+  - first:
+      213: 7100576267369350730
+    second: Gun_PNG_Ok 2_95
+  - first:
+      213: 8147773297677600350
+    second: Gun_PNG_Ok 2_96
+  - first:
+      213: -8949330040213853871
+    second: Gun_PNG_Ok 2_97
+  - first:
+      213: -8722321385697899444
+    second: Gun_PNG_Ok 2_98
+  - first:
+      213: -6678706487114201562
+    second: Gun_PNG_Ok 2_99
+  - first:
+      213: -6668101383919900988
+    second: Gun_PNG_Ok 2_100
+  - first:
+      213: 249355110853420201
+    second: Gun_PNG_Ok 2_101
+  - first:
+      213: 3418645136871338480
+    second: Gun_PNG_Ok 2_102
+  - first:
+      213: 1797293208750743350
+    second: Gun_PNG_Ok 2_103
+  - first:
+      213: 317602928996180094
+    second: Gun_PNG_Ok 2_104
+  - first:
+      213: -5518873287210975451
+    second: Gun_PNG_Ok 2_105
+  - first:
+      213: 635280076985224976
+    second: Gun_PNG_Ok 2_106
+  - first:
+      213: 6605385688848233718
+    second: Gun_PNG_Ok 2_107
+  - first:
+      213: 4226423239591794500
+    second: Gun_PNG_Ok 2_108
+  - first:
+      213: -3999203170068338908
+    second: Gun_PNG_Ok 2_109
+  - first:
+      213: 1777225874309866117
+    second: Gun_PNG_Ok 2_110
+  - first:
+      213: -8927245661642233166
+    second: Gun_PNG_Ok 2_111
+  - first:
+      213: -1849915374381981598
+    second: Gun_PNG_Ok 2_112
+  - first:
+      213: -8588803181457930895
+    second: Gun_PNG_Ok 2_113
+  - first:
+      213: 4154778136624140250
+    second: Gun_PNG_Ok 2_114
+  - first:
+      213: -8718957468974237162
+    second: Gun_PNG_Ok 2_115
+  - first:
+      213: 4617129817921269789
+    second: Gun_PNG_Ok 2_116
+  - first:
+      213: 3379614095790900168
+    second: Gun_PNG_Ok 2_117
+  - first:
+      213: 8171110684202401329
+    second: Gun_PNG_Ok 2_118
+  - first:
+      213: -7931781431739338145
+    second: Gun_PNG_Ok 2_119
+  - first:
+      213: -8191763032999154607
+    second: Gun_PNG_Ok 2_120
+  - first:
+      213: -6356539312533337859
+    second: Gun_PNG_Ok 2_121
+  - first:
+      213: -4209546875521343726
+    second: Gun_PNG_Ok 2_122
+  - first:
+      213: 4825756330683282399
+    second: Gun_PNG_Ok 2_123
+  - first:
+      213: 7197430095097765306
+    second: Gun_PNG_Ok 2_124
+  - first:
+      213: 1976090935298185177
+    second: Gun_PNG_Ok 2_125
+  - first:
+      213: -8875173917889729366
+    second: Gun_PNG_Ok 2_126
+  - first:
+      213: 8637910245541802393
+    second: Gun_PNG_Ok 2_127
+  - first:
+      213: -855927283681292220
+    second: Gun_PNG_Ok 2_128
+  - first:
+      213: -7656752962346799748
+    second: Gun_PNG_Ok 2_129
+  - first:
+      213: 5629920359054231363
+    second: Gun_PNG_Ok 2_130
+  - first:
+      213: -6900414189048075585
+    second: Gun_PNG_Ok 2_131
+  - first:
+      213: -5161010726020915921
+    second: Gun_PNG_Ok 2_132
+  - first:
+      213: 746881164675364853
+    second: Gun_PNG_Ok 2_133
+  - first:
+      213: -1850743512096648155
+    second: Gun_PNG_Ok 2_134
+  - first:
+      213: -4898401769839544962
+    second: Gun_PNG_Ok 2_135
+  - first:
+      213: -1398957145805597412
+    second: Gun_PNG_Ok 2_136
+  - first:
+      213: -6996607215731218031
+    second: Gun_PNG_Ok 2_137
+  - first:
+      213: -3625542420214451949
+    second: Gun_PNG_Ok 2_138
+  - first:
+      213: 7510117664268610828
+    second: Gun_PNG_Ok 2_139
+  - first:
+      213: 437375458491573688
+    second: Gun_PNG_Ok 2_140
+  - first:
+      213: 6195483537848867026
+    second: Gun_PNG_Ok 2_141
+  - first:
+      213: -9035144392288298919
+    second: Gun_PNG_Ok 2_142
+  - first:
+      213: 7449430316627529851
+    second: Gun_PNG_Ok 2_143
+  - first:
+      213: -7766966078643861641
+    second: Gun_PNG_Ok 2_144
+  - first:
+      213: -4863631260450297355
+    second: Gun_PNG_Ok 2_145
+  - first:
+      213: -981729845679156075
+    second: Gun_PNG_Ok 2_146
+  - first:
+      213: 8916673735516229694
+    second: Gun_PNG_Ok 2_147
+  - first:
+      213: -4317226798722313736
+    second: Gun_PNG_Ok 2_148
+  - first:
+      213: -2755992019379374175
+    second: Gun_PNG_Ok 2_149
+  - first:
+      213: -5344260988849429779
+    second: Gun_PNG_Ok 2_150
+  - first:
+      213: 5152311133552691665
+    second: Gun_PNG_Ok 2_151
+  - first:
+      213: -4095484390057850046
+    second: Gun_PNG_Ok 2_152
+  - first:
+      213: -706622381656989130
+    second: Gun_PNG_Ok 2_153
+  - first:
+      213: 1154673401329940775
+    second: Gun_PNG_Ok 2_154
+  - first:
+      213: 2106594371862037468
+    second: Gun_PNG_Ok 2_155
+  - first:
+      213: -5309217401407060096
+    second: Gun_PNG_Ok 2_156
+  - first:
+      213: -1078333151914038092
+    second: Gun_PNG_Ok 2_157
+  - first:
+      213: 5208083877141766950
+    second: Gun_PNG_Ok 2_158
+  - first:
+      213: 2731623797146732613
+    second: Gun_PNG_Ok 2_159
+  - first:
+      213: -7162652792172238046
+    second: Gun_PNG_Ok 2_160
+  - first:
+      213: -3211869144193212003
+    second: Gun_PNG_Ok 2_161
+  - first:
+      213: 4718536456027651767
+    second: Gun_PNG_Ok 2_162
+  - first:
+      213: -5881868213237968966
+    second: Gun_PNG_Ok 2_163
+  - first:
+      213: -6631556629030821181
+    second: Gun_PNG_Ok 2_164
+  - first:
+      213: -5623262327169829212
+    second: Gun_PNG_Ok 2_165
+  - first:
+      213: 5377180060330003026
+    second: Gun_PNG_Ok 2_166
+  - first:
+      213: 6844270307245121332
+    second: Gun_PNG_Ok 2_167
+  - first:
+      213: 3278001152608046109
+    second: Gun_PNG_Ok 2_168
+  - first:
+      213: 6847178885145897322
+    second: Gun_PNG_Ok 2_169
+  - first:
+      213: 4158580547113606110
+    second: Gun_PNG_Ok 2_170
+  - first:
+      213: -9103423267494374999
+    second: Gun_PNG_Ok 2_171
+  - first:
+      213: -827539721973889100
+    second: Gun_PNG_Ok 2_172
+  - first:
+      213: 3813924727336033273
+    second: Gun_PNG_Ok 2_173
+  - first:
+      213: 6094710400808746874
+    second: Gun_PNG_Ok 2_174
+  - first:
+      213: -5112875724736214097
+    second: Gun_PNG_Ok 2_175
+  - first:
+      213: 8984109183448225714
+    second: Gun_PNG_Ok 2_176
+  - first:
+      213: -3158217339536146300
+    second: Gun_PNG_Ok 2_177
+  - first:
+      213: -3809567993320470010
+    second: Gun_PNG_Ok 2_178
+  - first:
+      213: 5485523238788411025
+    second: Gun_PNG_Ok 2_179
+  - first:
+      213: 7109040723359887562
+    second: Gun_PNG_Ok 2_180
+  - first:
+      213: -1310621564052255484
+    second: Gun_PNG_Ok 2_181
+  - first:
+      213: 162021575031867798
+    second: Gun_PNG_Ok 2_182
+  - first:
+      213: -2324349358515100710
+    second: Gun_PNG_Ok 2_183
+  - first:
+      213: 4620714693106647393
+    second: Gun_PNG_Ok 2_184
+  - first:
+      213: -3677316259559477090
+    second: Gun_PNG_Ok 2_185
+  - first:
+      213: -1102971189100261982
+    second: Gun_PNG_Ok 2_186
+  - first:
+      213: 5455900145977014579
+    second: Gun_PNG_Ok 2_187
+  - first:
+      213: -2168996423278810090
+    second: Gun_PNG_Ok 2_188
+  - first:
+      213: 5085513881071342020
+    second: Gun_PNG_Ok 2_189
+  - first:
+      213: -9209533350684531184
+    second: Gun_PNG_Ok 2_190
+  - first:
+      213: -1129420063475715204
+    second: Gun_PNG_Ok 2_191
+  - first:
+      213: -6200471392980265368
+    second: Gun_PNG_Ok 2_192
+  - first:
+      213: 2905704965129885367
+    second: Gun_PNG_Ok 2_193
+  - first:
+      213: 5295019237916998640
+    second: Gun_PNG_Ok 2_194
+  - first:
+      213: -2977930261275080010
+    second: Gun_PNG_Ok 2_195
+  - first:
+      213: 2932999299435779129
+    second: Gun_PNG_Ok 2_196
+  - first:
+      213: -4122890005638804919
+    second: Gun_PNG_Ok 2_197
+  - first:
+      213: 2256150676022669173
+    second: Gun_PNG_Ok 2_198
+  - first:
+      213: -7146250245230856203
+    second: Gun_PNG_Ok 2_199
+  - first:
+      213: 4951857581947332523
+    second: Gun_PNG_Ok 2_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1282
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2e4e1b545f3c90800000000000000
+      internalID: -7187933729932824749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8959fc9224300bd30800000000000000
+      internalID: 4445056414918874520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea297a29cb486cb0800000000000000
+      internalID: -4870559669628097820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1283
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab75d8763d7876f0800000000000000
+      internalID: -686661270265037919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48e2a2a7c5501c0800000000000000
+      internalID: -4538119369742449475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcd90d15f1cf8a0800000000000000
+      internalID: -6270102144953758795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1283
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c16585652cc5b70800000000000000
+      internalID: 8889193440627530765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1283
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f177102fc28a025c0800000000000000
+      internalID: -4242205937990797537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1279
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443c1e5c13175b10800000000000000
+      internalID: 1970064374556800070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1283
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c08ead4f8f54d10800000000000000
+      internalID: 2109365731021294718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1279
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9d9b40a5749460800000000000000
+      internalID: 7247547031669808401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1133
+        width: 208
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c38af3149f74c0800000000000000
+      internalID: -4287545506705193867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_12
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1142
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d22ba01a41f35b0800000000000000
+      internalID: -5386563947410084560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_13
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1131
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe895198bce2d90800000000000000
+      internalID: -7120530171192873150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_14
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1131
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc34c8928d117e20800000000000000
+      internalID: 3346488444858940663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_15
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1149
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec1bb563c2035d0800000000000000
+      internalID: -3084917132770554233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_16
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1213
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55ef719e0da4b20800000000000000
+      internalID: 3119535391455991222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_17
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41329d3122504fda0800000000000000
+      internalID: -5912094766910594284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1121
+        width: 171
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edad2e258258f260800000000000000
+      internalID: 7131540741900053990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_19
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1121
+        width: 163
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b330b81b92e1d160800000000000000
+      internalID: 7048664047573545905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_20
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1120
+        width: 200
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b09d448f13083420800000000000000
+      internalID: 2609839417959747767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_21
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1168
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0466d9876f983b10800000000000000
+      internalID: 1961492904762827789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_22
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca07fde983116310800000000000000
+      internalID: 1396418842585402048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_23
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1163
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67127ef1eb627d0800000000000000
+      internalID: -2943456262209046834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1157
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc499354dccd09e0800000000000000
+      internalID: -1653440275867415358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_25
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1177
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9698670ab4cf1fe20800000000000000
+      internalID: 3382762196876822889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_26
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1168
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78ae7bf6438ac930800000000000000
+      internalID: 4164285146347776127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_27
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1177
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8e7de3351bc9d0800000000000000
+      internalID: -2753083434434917741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1134
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f579d482c7b1b2970800000000000000
+      internalID: 8731102522653906783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_29
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1139
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a270accf79ca5370800000000000000
+      internalID: 8312177612996768422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1120
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa0fe98904a91a0800000000000000
+      internalID: -6802053262943933862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 970
+        width: 269
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e2811ce0112f1d0800000000000000
+      internalID: -3318571220351832459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_32
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1026
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31da423c5d7ecc0800000000000000
+      internalID: -3681739136241429553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_33
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1026
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe304b44c026d20800000000000000
+      internalID: 3270189768641867550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_34
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1025
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e3a9504f974e10800000000000000
+      internalID: 2181887643214931411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_35
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1025
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917629c1ec9ff6fd0800000000000000
+      internalID: -2346382217198803175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_36
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1023
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b2aeb0e4cf595c0800000000000000
+      internalID: -4209180864570316027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_37
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1025
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b136a6ee01dec0b70800000000000000
+      internalID: 8866722423360873243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_38
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1034
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6687dd5dc16803e0800000000000000
+      internalID: -2087310892615629205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_39
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1020
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99edbf224d4476500800000000000000
+      internalID: 389355570701524633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_40
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1039
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef173eca04ad11d20800000000000000
+      internalID: 3247616777624187390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1026
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da444d376407590800000000000000
+      internalID: -7678559901370241701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_42
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1017
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83db7e0d760f9c5f0800000000000000
+      internalID: -735792735421219528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_43
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1013
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a682e93e5fcbdb0800000000000000
+      internalID: -4774671146959738350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_44
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 932
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f6ba48361e5f630800000000000000
+      internalID: 3960319264886058788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_45
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 844
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c629b63ffdfef0bc0800000000000000
+      internalID: -3814566614218861972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_46
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 943
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60316559d9279dec0800000000000000
+      internalID: -3541673610809306362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_47
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 924
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829085c7e06b78660800000000000000
+      internalID: 7388073887056529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_48
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 915
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489d2160393f65120800000000000000
+      internalID: 2402375264036379012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_49
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 917
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8271eb0adace53550800000000000000
+      internalID: 6140073897459849000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_50
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 917
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39351d1a0b1c019c0800000000000000
+      internalID: -3958451108085410925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_51
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 916
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f913b3faf5df56b0800000000000000
+      internalID: -5305286562212013578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_52
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 923
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b6c6805e49f1c0800000000000000
+      internalID: -4469455047422988102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_53
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 892
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653634b7a2704210800000000000000
+      internalID: 1315177155800741216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_54
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 903
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7e1810d35c2770800000000000000
+      internalID: 8587330742711646891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_55
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 908
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3981b14dcd9a07a0800000000000000
+      internalID: -6410137614712469186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_56
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 916
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe473db5129b830800000000000000
+      internalID: 4087334815088832286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_57
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 901
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd48cd53f3858dc0800000000000000
+      internalID: -3637356042758107699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_58
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 844
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c94e103b0bf0d0800000000000000
+      internalID: -3388101993371679234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_59
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 909
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d30d35934ed10a0800000000000000
+      internalID: -6909115318446047876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_60
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 904
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef54e86e300f390800000000000000
+      internalID: -7786719466959274277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_61
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 907
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79601766d9ff04150800000000000000
+      internalID: 5854960567075276439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_62
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 844
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f6852120678d90800000000000000
+      internalID: -7095596992419138906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_63
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 908
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102730e8f5afd120800000000000000
+      internalID: 2440852011390279707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 816
+        width: 175
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558ef48e0e8eced60800000000000000
+      internalID: 7920961897305729109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 816
+        width: 167
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ebd2a56dcc915c0800000000000000
+      internalID: -4244135952811966909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 816
+        width: 161
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a9f998f4afd6de0800000000000000
+      internalID: -1338138294740870600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_67
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 816
+        width: 161
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8f84f741a93810800000000000000
+      internalID: 1745603661000576721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_68
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 816
+        width: 169
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b99c4815883480800000000000000
+      internalID: -8919232722596416044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_69
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 896
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51aac4265482850800000000000000
+      internalID: 6352403562901411254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_70
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 888
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac94cb79de7ac4910800000000000000
+      internalID: 1823016588072995274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_71
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 890
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c0b14accf433030800000000000000
+      internalID: 3473207477977943063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_72
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 853
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1edc573ee328c10800000000000000
+      internalID: 2054273526689292736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_73
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 853
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414200203505ee80800000000000000
+      internalID: -8150102246403456699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_74
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 893
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc76ff1f65fa3a40800000000000000
+      internalID: 5348857365082307789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_75
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 893
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe0c5d7d71e5d50800000000000000
+      internalID: 6727841109109697486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_76
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 876
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11653a597cf14ca60800000000000000
+      internalID: 7693309005525112337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_77
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec15b84465949ff0800000000000000
+      internalID: -30235039535653653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_78
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 877
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ae1786c27061220800000000000000
+      internalID: 2456158534089435736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_79
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 877
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f709ea78c7b5190800000000000000
+      internalID: -7972641793138196619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_80
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 868
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e86748c91c5c00800000000000000
+      internalID: 890615174294725005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_81
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 853
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394485910d910d40800000000000000
+      internalID: 5548888846026164530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_82
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 857
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392319c722fbaab0800000000000000
+      internalID: -4995633108946310859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_83
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 865
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa18e5fd2398590800000000000000
+      internalID: -7671544555304277319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_84
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 848
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a17a9faa9d5260800000000000000
+      internalID: 7087991467552122565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_85
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682edfc6ef8280e90800000000000000
+      internalID: -7059347342687870330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_86
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 846
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd571d09878d36a90800000000000000
+      internalID: -7321770556836973092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_87
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 855
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a897debf0785a0800000000000000
+      internalID: -6519224623260194774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 852
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48661d36d670fb720800000000000000
+      internalID: 2864016054438422148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_89
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 850
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ad7b85164bbdd30800000000000000
+      internalID: 4457354586406509205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_90
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 849
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc7153331ed8ab0800000000000000
+      internalID: -5004096000888419099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_91
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 850
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15b447f22c0afa0800000000000000
+      internalID: -5791415611728113239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 739
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ba27d2463f4c10800000000000000
+      internalID: 2039908816927765285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 737
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2c75f56f460ef50800000000000000
+      internalID: 6908632837710660333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_94
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 740
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e5537523b8a9350800000000000000
+      internalID: 6024280499889200727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_95
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 746
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a468e15ae705a8260800000000000000
+      internalID: 7100576267369350730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_96
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 632
+        width: 233
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568c7e35a4b21170800000000000000
+      internalID: 8147773297677600350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_97
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 686
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15922577eb79dc380800000000000000
+      internalID: -8949330040213853871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_98
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 729
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c0fac99e614f680800000000000000
+      internalID: -8722321385697899444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_99
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 727
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260674d5d77053a0800000000000000
+      internalID: -6678706487114201562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_100
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 727
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e925de152673a0800000000000000
+      internalID: -6668101383919900988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_101
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 685
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4a855f623e57300800000000000000
+      internalID: 249355110853420201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_102
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 685
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13554a3a7717f20800000000000000
+      internalID: 3418645136871338480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_103
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 685
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5fc0a6a441f810800000000000000
+      internalID: 1797293208750743350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_104
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 725
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e0726e2a586400800000000000000
+      internalID: 317602928996180094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_105
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 638
+        width: 183
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb56b4cf50963b0800000000000000
+      internalID: -5518873287210975451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_106
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 639
+        width: 173
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f46993dd7f0d800800000000000000
+      internalID: 635280076985224976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 637
+        width: 171
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f47f34894b0bab50800000000000000
+      internalID: 6605385688848233718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_108
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 638
+        width: 157
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447135a3b8547aa30800000000000000
+      internalID: 4226423239591794500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_109
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 638
+        width: 156
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e57fc7e9ff78c0800000000000000
+      internalID: -3999203170068338908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_110
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 712
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5826fdb3489f9a810800000000000000
+      internalID: 1777225874309866117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_111
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 710
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baea2b8e5d0c1480800000000000000
+      internalID: -8927245661642233166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_112
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 713
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ad6da4c7c356e0800000000000000
+      internalID: -1849915374381981598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_113
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 711
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175847b03017ec880800000000000000
+      internalID: -8588803181457930895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_114
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 694
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf8a0ac3bcb8a930800000000000000
+      internalID: 4154778136624140250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_115
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 709
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a3d02806a000780800000000000000
+      internalID: -8718957468974237162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_116
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 695
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10bf075b17531040800000000000000
+      internalID: 4617129817921269789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_117
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 687
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305893d1dc6ee20800000000000000
+      internalID: 3379614095790900168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_118
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 686
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e7848ffdd956170800000000000000
+      internalID: 8171110684202401329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_119
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 686
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52332defc6ace190800000000000000
+      internalID: -7931781431739338145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_120
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 685
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca8ed5ce2015e80800000000000000
+      internalID: -8191763032999154607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_121
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 617
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df805a37c2909c7a0800000000000000
+      internalID: -6356539312533337859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_122
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 588
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd13b7b6fa495c0800000000000000
+      internalID: -4209546875521343726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_123
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 599
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd338f690d788f240800000000000000
+      internalID: 4825756330683282399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_124
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 617
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd1202b98862e360800000000000000
+      internalID: 7197430095097765306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_125
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 599
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d751526c3c7c6b10800000000000000
+      internalID: 1976090935298185177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_126
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 589
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacee58285c05d480800000000000000
+      internalID: -8875173917889729366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_127
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 617
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f93b4a9500e770800000000000000
+      internalID: 8637910245541802393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_128
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 599
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4409c9e9ba22f14f0800000000000000
+      internalID: -855927283681292220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_129
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 588
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d266a7fbfbdb590800000000000000
+      internalID: -7656752962346799748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_130
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 589
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ca2becbe712e40800000000000000
+      internalID: 5629920359054231363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_131
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 588
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba69b2eaddcc30a0800000000000000
+      internalID: -6900414189048075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_132
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 588
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dda81c6186068b0800000000000000
+      internalID: -5161010726020915921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_133
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 588
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b7ed46747d5a00800000000000000
+      internalID: 746881164675364853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_134
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 428
+        width: 156
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524de17d496d056e0800000000000000
+      internalID: -1850743512096648155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_135
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 419
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b19d0b81650cb0800000000000000
+      internalID: -4898401769839544962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_136
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 419
+        width: 88
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15534c43e7e59ce0800000000000000
+      internalID: -1398957145805597412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_137
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 420
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e7619ece07ee90800000000000000
+      internalID: -6996607215731218031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_138
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 419
+        width: 93
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f105b06c7fadc0800000000000000
+      internalID: -3625542420214451949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_139
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 419
+        width: 136
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ded10b93c493860800000000000000
+      internalID: 7510117664268610828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 419
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52dd489aed11600800000000000000
+      internalID: 437375458491573688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_141
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 419
+        width: 131
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8134dd377caf550800000000000000
+      internalID: 6195483537848867026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_142
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 471
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581b43ab08bc9280800000000000000
+      internalID: -9035144392288298919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_143
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 471
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701c997761b16760800000000000000
+      internalID: 7449430316627529851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_144
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 471
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7778ceba081363490800000000000000
+      internalID: -7766966078643861641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_145
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 471
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ef522329e08cb0800000000000000
+      internalID: -4863631260450297355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_146
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 471
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59415e228e13062f0800000000000000
+      internalID: -981729845679156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_147
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 471
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30108715836ebb70800000000000000
+      internalID: 8916673735516229694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_148
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 470
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f11c57a9112614c0800000000000000
+      internalID: -4317226798722313736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_149
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 471
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b4193cdfb0c9d0800000000000000
+      internalID: -2755992019379374175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_150
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 478
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e6ac12fe55d5b0800000000000000
+      internalID: -5344260988849429779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_151
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 472
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9c2b78dafa08740800000000000000
+      internalID: 5152311133552691665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_152
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 471
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc17365aae927c0800000000000000
+      internalID: -4095484390057850046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_153
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 286
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632aefe00b29136f0800000000000000
+      internalID: -706622381656989130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_154
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 286
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729fcdd3759360010800000000000000
+      internalID: 1154673401329940775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_155
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 295
+        width: 147
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38ca48b602c3d10800000000000000
+      internalID: 2106594371862037468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_156
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 285
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874fc127eed156b0800000000000000
+      internalID: -5309217401407060096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_157
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 301
+        width: 115
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce2aa26bdf801f0800000000000000
+      internalID: -1078333151914038092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 296
+        width: 147
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623697151b4d64840800000000000000
+      internalID: 5208083877141766950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_159
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 303
+        width: 159
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5484fe8ee5da8e520800000000000000
+      internalID: 2731623797146732613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_160
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 288
+        width: 83
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b2d112c35299c90800000000000000
+      internalID: -7162652792172238046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_161
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 287
+        width: 84
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d916353d7062d63d0800000000000000
+      internalID: -3211869144193212003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_162
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 301
+        width: 107
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be324928eb9b7140800000000000000
+      internalID: 4718536456027651767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_163
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 312
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0a4606086f5ea0800000000000000
+      internalID: -5881868213237968966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_164
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 303
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c22bb2a16af7f3a0800000000000000
+      internalID: -6631556629030821181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_165
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 297
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b43ee4b826f1b0800000000000000
+      internalID: -5623262327169829212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_166
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 327
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a884d76c49f9a40800000000000000
+      internalID: 5377180060330003026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_167
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f591af49bbbfe50800000000000000
+      internalID: 6844270307245121332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_168
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 74
+        width: 122
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c06824eaccd7d20800000000000000
+      internalID: 3278001152608046109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_169
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 59
+        width: 118
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692daa0be0160f50800000000000000
+      internalID: 6847178885145897322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_170
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 73
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5e8879fe36b930800000000000000
+      internalID: 4158580547113606110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_171
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 85
+        width: 157
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d8fc25c42aa180800000000000000
+      internalID: -9103423267494374999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_172
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 83
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78832e10df384f0800000000000000
+      internalID: -827539721973889100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_173
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 75
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb51fc1558cde430800000000000000
+      internalID: 3813924727336033273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_174
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 119
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f751181d2c49450800000000000000
+      internalID: 6094710400808746874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_175
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 109
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab41661e9a6b09b0800000000000000
+      internalID: -5112875724736214097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_176
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 125
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b791c6d3b7fdac70800000000000000
+      internalID: 8984109183448225714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_177
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 105
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48008790012cb24d0800000000000000
+      internalID: -3158217339536146300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_178
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 169
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8f621812b12bc0800000000000000
+      internalID: -3809567993320470010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_179
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 160
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e2227725e702c40800000000000000
+      internalID: 5485523238788411025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_180
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 99
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f6a16fd268a260800000000000000
+      internalID: 7109040723359887562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_181
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 103
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc2b7a1acbfcde0800000000000000
+      internalID: -1310621564052255484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_182
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 91
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69949b993cd9f3200800000000000000
+      internalID: 162021575031867798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_183
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 149
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ecc7c2904ebfd0800000000000000
+      internalID: -2324349358515100710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_184
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 74
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161cc032883102040800000000000000
+      internalID: 4620714693106647393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_185
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 87
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90703e585c87fcc0800000000000000
+      internalID: -3677316259559477090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_186
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 94
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad403c1c8571b0f0800000000000000
+      internalID: -1102971189100261982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_187
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33936f2b64047bb40800000000000000
+      internalID: 5455900145977014579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_188
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 100
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61caf5fae3d26e1e0800000000000000
+      internalID: -2168996423278810090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_189
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1539d3eef539640800000000000000
+      internalID: 5085513881071342020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_190
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e555363a213080800000000000000
+      internalID: -9209533350684531184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_191
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 98
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b45aaf6e7350f0800000000000000
+      internalID: -1129420063475715204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_192
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 56
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866907d9e1083f9a0800000000000000
+      internalID: -6200471392980265368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_193
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d7ac4543235820800000000000000
+      internalID: 2905704965129885367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_194
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf6e251ffab7940800000000000000
+      internalID: 5295019237916998640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_195
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba00d284344ca6d0800000000000000
+      internalID: -2977930261275080010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_196
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 87
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934d659b25b14b820800000000000000
+      internalID: 2932999299435779129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_197
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 77
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a04e5426d88c6c0800000000000000
+      internalID: -4122890005638804919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_198
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 72
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa61416157f4f10800000000000000
+      internalID: 2256150676022669173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_199
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 72
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f777f0b34b63dc90800000000000000
+      internalID: -7146250245230856203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun_PNG_Ok 2_200
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 61
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7ab461c3888b440800000000000000
+      internalID: 4951857581947332523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun_PNG_Ok 2_0: -7187933729932824749
+      Gun_PNG_Ok 2_1: 4445056414918874520
+      Gun_PNG_Ok 2_10: 7247547031669808401
+      Gun_PNG_Ok 2_100: -6668101383919900988
+      Gun_PNG_Ok 2_101: 249355110853420201
+      Gun_PNG_Ok 2_102: 3418645136871338480
+      Gun_PNG_Ok 2_103: 1797293208750743350
+      Gun_PNG_Ok 2_104: 317602928996180094
+      Gun_PNG_Ok 2_105: -5518873287210975451
+      Gun_PNG_Ok 2_106: 635280076985224976
+      Gun_PNG_Ok 2_107: 6605385688848233718
+      Gun_PNG_Ok 2_108: 4226423239591794500
+      Gun_PNG_Ok 2_109: -3999203170068338908
+      Gun_PNG_Ok 2_11: -4287545506705193867
+      Gun_PNG_Ok 2_110: 1777225874309866117
+      Gun_PNG_Ok 2_111: -8927245661642233166
+      Gun_PNG_Ok 2_112: -1849915374381981598
+      Gun_PNG_Ok 2_113: -8588803181457930895
+      Gun_PNG_Ok 2_114: 4154778136624140250
+      Gun_PNG_Ok 2_115: -8718957468974237162
+      Gun_PNG_Ok 2_116: 4617129817921269789
+      Gun_PNG_Ok 2_117: 3379614095790900168
+      Gun_PNG_Ok 2_118: 8171110684202401329
+      Gun_PNG_Ok 2_119: -7931781431739338145
+      Gun_PNG_Ok 2_12: -5386563947410084560
+      Gun_PNG_Ok 2_120: -8191763032999154607
+      Gun_PNG_Ok 2_121: -6356539312533337859
+      Gun_PNG_Ok 2_122: -4209546875521343726
+      Gun_PNG_Ok 2_123: 4825756330683282399
+      Gun_PNG_Ok 2_124: 7197430095097765306
+      Gun_PNG_Ok 2_125: 1976090935298185177
+      Gun_PNG_Ok 2_126: -8875173917889729366
+      Gun_PNG_Ok 2_127: 8637910245541802393
+      Gun_PNG_Ok 2_128: -855927283681292220
+      Gun_PNG_Ok 2_129: -7656752962346799748
+      Gun_PNG_Ok 2_13: -7120530171192873150
+      Gun_PNG_Ok 2_130: 5629920359054231363
+      Gun_PNG_Ok 2_131: -6900414189048075585
+      Gun_PNG_Ok 2_132: -5161010726020915921
+      Gun_PNG_Ok 2_133: 746881164675364853
+      Gun_PNG_Ok 2_134: -1850743512096648155
+      Gun_PNG_Ok 2_135: -4898401769839544962
+      Gun_PNG_Ok 2_136: -1398957145805597412
+      Gun_PNG_Ok 2_137: -6996607215731218031
+      Gun_PNG_Ok 2_138: -3625542420214451949
+      Gun_PNG_Ok 2_139: 7510117664268610828
+      Gun_PNG_Ok 2_14: 3346488444858940663
+      Gun_PNG_Ok 2_140: 437375458491573688
+      Gun_PNG_Ok 2_141: 6195483537848867026
+      Gun_PNG_Ok 2_142: -9035144392288298919
+      Gun_PNG_Ok 2_143: 7449430316627529851
+      Gun_PNG_Ok 2_144: -7766966078643861641
+      Gun_PNG_Ok 2_145: -4863631260450297355
+      Gun_PNG_Ok 2_146: -981729845679156075
+      Gun_PNG_Ok 2_147: 8916673735516229694
+      Gun_PNG_Ok 2_148: -4317226798722313736
+      Gun_PNG_Ok 2_149: -2755992019379374175
+      Gun_PNG_Ok 2_15: -3084917132770554233
+      Gun_PNG_Ok 2_150: -5344260988849429779
+      Gun_PNG_Ok 2_151: 5152311133552691665
+      Gun_PNG_Ok 2_152: -4095484390057850046
+      Gun_PNG_Ok 2_153: -706622381656989130
+      Gun_PNG_Ok 2_154: 1154673401329940775
+      Gun_PNG_Ok 2_155: 2106594371862037468
+      Gun_PNG_Ok 2_156: -5309217401407060096
+      Gun_PNG_Ok 2_157: -1078333151914038092
+      Gun_PNG_Ok 2_158: 5208083877141766950
+      Gun_PNG_Ok 2_159: 2731623797146732613
+      Gun_PNG_Ok 2_16: 3119535391455991222
+      Gun_PNG_Ok 2_160: -7162652792172238046
+      Gun_PNG_Ok 2_161: -3211869144193212003
+      Gun_PNG_Ok 2_162: 4718536456027651767
+      Gun_PNG_Ok 2_163: -5881868213237968966
+      Gun_PNG_Ok 2_164: -6631556629030821181
+      Gun_PNG_Ok 2_165: -5623262327169829212
+      Gun_PNG_Ok 2_166: 5377180060330003026
+      Gun_PNG_Ok 2_167: 6844270307245121332
+      Gun_PNG_Ok 2_168: 3278001152608046109
+      Gun_PNG_Ok 2_169: 6847178885145897322
+      Gun_PNG_Ok 2_17: -5912094766910594284
+      Gun_PNG_Ok 2_170: 4158580547113606110
+      Gun_PNG_Ok 2_171: -9103423267494374999
+      Gun_PNG_Ok 2_172: -827539721973889100
+      Gun_PNG_Ok 2_173: 3813924727336033273
+      Gun_PNG_Ok 2_174: 6094710400808746874
+      Gun_PNG_Ok 2_175: -5112875724736214097
+      Gun_PNG_Ok 2_176: 8984109183448225714
+      Gun_PNG_Ok 2_177: -3158217339536146300
+      Gun_PNG_Ok 2_178: -3809567993320470010
+      Gun_PNG_Ok 2_179: 5485523238788411025
+      Gun_PNG_Ok 2_18: 7131540741900053990
+      Gun_PNG_Ok 2_180: 7109040723359887562
+      Gun_PNG_Ok 2_181: -1310621564052255484
+      Gun_PNG_Ok 2_182: 162021575031867798
+      Gun_PNG_Ok 2_183: -2324349358515100710
+      Gun_PNG_Ok 2_184: 4620714693106647393
+      Gun_PNG_Ok 2_185: -3677316259559477090
+      Gun_PNG_Ok 2_186: -1102971189100261982
+      Gun_PNG_Ok 2_187: 5455900145977014579
+      Gun_PNG_Ok 2_188: -2168996423278810090
+      Gun_PNG_Ok 2_189: 5085513881071342020
+      Gun_PNG_Ok 2_19: 7048664047573545905
+      Gun_PNG_Ok 2_190: -9209533350684531184
+      Gun_PNG_Ok 2_191: -1129420063475715204
+      Gun_PNG_Ok 2_192: -6200471392980265368
+      Gun_PNG_Ok 2_193: 2905704965129885367
+      Gun_PNG_Ok 2_194: 5295019237916998640
+      Gun_PNG_Ok 2_195: -2977930261275080010
+      Gun_PNG_Ok 2_196: 2932999299435779129
+      Gun_PNG_Ok 2_197: -4122890005638804919
+      Gun_PNG_Ok 2_198: 2256150676022669173
+      Gun_PNG_Ok 2_199: -7146250245230856203
+      Gun_PNG_Ok 2_2: -4870559669628097820
+      Gun_PNG_Ok 2_20: 2609839417959747767
+      Gun_PNG_Ok 2_200: 4951857581947332523
+      Gun_PNG_Ok 2_21: 1961492904762827789
+      Gun_PNG_Ok 2_22: 1396418842585402048
+      Gun_PNG_Ok 2_23: -2943456262209046834
+      Gun_PNG_Ok 2_24: -1653440275867415358
+      Gun_PNG_Ok 2_25: 3382762196876822889
+      Gun_PNG_Ok 2_26: 4164285146347776127
+      Gun_PNG_Ok 2_27: -2753083434434917741
+      Gun_PNG_Ok 2_28: 8731102522653906783
+      Gun_PNG_Ok 2_29: 8312177612996768422
+      Gun_PNG_Ok 2_3: -686661270265037919
+      Gun_PNG_Ok 2_30: -6802053262943933862
+      Gun_PNG_Ok 2_31: -3318571220351832459
+      Gun_PNG_Ok 2_32: -3681739136241429553
+      Gun_PNG_Ok 2_33: 3270189768641867550
+      Gun_PNG_Ok 2_34: 2181887643214931411
+      Gun_PNG_Ok 2_35: -2346382217198803175
+      Gun_PNG_Ok 2_36: -4209180864570316027
+      Gun_PNG_Ok 2_37: 8866722423360873243
+      Gun_PNG_Ok 2_38: -2087310892615629205
+      Gun_PNG_Ok 2_39: 389355570701524633
+      Gun_PNG_Ok 2_4: -4538119369742449475
+      Gun_PNG_Ok 2_40: 3247616777624187390
+      Gun_PNG_Ok 2_41: -7678559901370241701
+      Gun_PNG_Ok 2_42: -735792735421219528
+      Gun_PNG_Ok 2_43: -4774671146959738350
+      Gun_PNG_Ok 2_44: 3960319264886058788
+      Gun_PNG_Ok 2_45: -3814566614218861972
+      Gun_PNG_Ok 2_46: -3541673610809306362
+      Gun_PNG_Ok 2_47: 7388073887056529704
+      Gun_PNG_Ok 2_48: 2402375264036379012
+      Gun_PNG_Ok 2_49: 6140073897459849000
+      Gun_PNG_Ok 2_5: -6270102144953758795
+      Gun_PNG_Ok 2_50: -3958451108085410925
+      Gun_PNG_Ok 2_51: -5305286562212013578
+      Gun_PNG_Ok 2_52: -4469455047422988102
+      Gun_PNG_Ok 2_53: 1315177155800741216
+      Gun_PNG_Ok 2_54: 8587330742711646891
+      Gun_PNG_Ok 2_55: -6410137614712469186
+      Gun_PNG_Ok 2_56: 4087334815088832286
+      Gun_PNG_Ok 2_57: -3637356042758107699
+      Gun_PNG_Ok 2_58: -3388101993371679234
+      Gun_PNG_Ok 2_59: -6909115318446047876
+      Gun_PNG_Ok 2_6: 8889193440627530765
+      Gun_PNG_Ok 2_60: -7786719466959274277
+      Gun_PNG_Ok 2_61: 5854960567075276439
+      Gun_PNG_Ok 2_62: -7095596992419138906
+      Gun_PNG_Ok 2_63: 2440852011390279707
+      Gun_PNG_Ok 2_64: 7920961897305729109
+      Gun_PNG_Ok 2_65: -4244135952811966909
+      Gun_PNG_Ok 2_66: -1338138294740870600
+      Gun_PNG_Ok 2_67: 1745603661000576721
+      Gun_PNG_Ok 2_68: -8919232722596416044
+      Gun_PNG_Ok 2_69: 6352403562901411254
+      Gun_PNG_Ok 2_7: -4242205937990797537
+      Gun_PNG_Ok 2_70: 1823016588072995274
+      Gun_PNG_Ok 2_71: 3473207477977943063
+      Gun_PNG_Ok 2_72: 2054273526689292736
+      Gun_PNG_Ok 2_73: -8150102246403456699
+      Gun_PNG_Ok 2_74: 5348857365082307789
+      Gun_PNG_Ok 2_75: 6727841109109697486
+      Gun_PNG_Ok 2_76: 7693309005525112337
+      Gun_PNG_Ok 2_77: -30235039535653653
+      Gun_PNG_Ok 2_78: 2456158534089435736
+      Gun_PNG_Ok 2_79: -7972641793138196619
+      Gun_PNG_Ok 2_8: 1970064374556800070
+      Gun_PNG_Ok 2_80: 890615174294725005
+      Gun_PNG_Ok 2_81: 5548888846026164530
+      Gun_PNG_Ok 2_82: -4995633108946310859
+      Gun_PNG_Ok 2_83: -7671544555304277319
+      Gun_PNG_Ok 2_84: 7087991467552122565
+      Gun_PNG_Ok 2_85: -7059347342687870330
+      Gun_PNG_Ok 2_86: -7321770556836973092
+      Gun_PNG_Ok 2_87: -6519224623260194774
+      Gun_PNG_Ok 2_88: 2864016054438422148
+      Gun_PNG_Ok 2_89: 4457354586406509205
+      Gun_PNG_Ok 2_9: 2109365731021294718
+      Gun_PNG_Ok 2_90: -5004096000888419099
+      Gun_PNG_Ok 2_91: -5791415611728113239
+      Gun_PNG_Ok 2_92: 2039908816927765285
+      Gun_PNG_Ok 2_93: 6908632837710660333
+      Gun_PNG_Ok 2_94: 6024280499889200727
+      Gun_PNG_Ok 2_95: 7100576267369350730
+      Gun_PNG_Ok 2_96: 8147773297677600350
+      Gun_PNG_Ok 2_97: -8949330040213853871
+      Gun_PNG_Ok 2_98: -8722321385697899444
+      Gun_PNG_Ok 2_99: -6678706487114201562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: 871696b1b37ec914f9afc935d34da69f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3538217558856759978
+    second: thanhmau-PNG_0
+  - first:
+      213: 4534316319990266941
+    second: thanhmau-PNG_1
+  - first:
+      213: 5151575162091528092
+    second: thanhmau-PNG_2
+  - first:
+      213: 1320438356907444667
+    second: thanhmau-PNG_3
+  - first:
+      213: 6896854432763377842
+    second: thanhmau-PNG_4
+  - first:
+      213: -3411553110980173102
+    second: thanhmau-PNG_5
+  - first:
+      213: -6273361724503585485
+    second: thanhmau-PNG_6
+  - first:
+      213: 516826045399362739
+    second: thanhmau-PNG_7
+  - first:
+      213: -6263305560282079848
+    second: thanhmau-PNG_8
+  - first:
+      213: 2116976007104786729
+    second: thanhmau-PNG_9
+  - first:
+      213: -6413351017237812081
+    second: thanhmau-PNG_10
+  - first:
+      213: -1218675401147125400
+    second: thanhmau-PNG_11
+  - first:
+      213: -8083216386046108234
+    second: thanhmau-PNG_12
+  - first:
+      213: -41721160196490373
+    second: thanhmau-PNG_13
+  - first:
+      213: -6480751459959393311
+    second: thanhmau-PNG_14
+  - first:
+      213: -1238673393334467921
+    second: thanhmau-PNG_15
+  - first:
+      213: -4566108975571057253
+    second: thanhmau-PNG_16
+  - first:
+      213: -2909265228628826840
+    second: thanhmau-PNG_17
+  - first:
+      213: 3927123483621870928
+    second: thanhmau-PNG_18
+  - first:
+      213: 5677287593816156325
+    second: thanhmau-PNG_19
+  - first:
+      213: 4740955182874168430
+    second: thanhmau-PNG_20
+  - first:
+      213: -8180716888553404251
+    second: thanhmau-PNG_21
+  - first:
+      213: 2042153495773717807
+    second: thanhmau-PNG_22
+  - first:
+      213: 1799935539191279071
+    second: thanhmau-PNG_23
+  - first:
+      213: -8841732722114440947
+    second: thanhmau-PNG_24
+  - first:
+      213: -2825596913079816982
+    second: thanhmau-PNG_25
+  - first:
+      213: 3530480040171944951
+    second: thanhmau-PNG_26
+  - first:
+      213: 3792443359606424161
+    second: thanhmau-PNG_27
+  - first:
+      213: 2877635901758601072
+    second: thanhmau-PNG_28
+  - first:
+      213: -2433002647674592312
+    second: thanhmau-PNG_29
+  - first:
+      213: 30982225725296904
+    second: thanhmau-PNG_30
+  - first:
+      213: -3594714149747586275
+    second: thanhmau-PNG_31
+  - first:
+      213: 2460276764960779429
+    second: thanhmau-PNG_32
+  - first:
+      213: -9157389177806389041
+    second: thanhmau-PNG_33
+  - first:
+      213: -4276690938967115902
+    second: thanhmau-PNG_34
+  - first:
+      213: 4432768433649037809
+    second: thanhmau-PNG_35
+  - first:
+      213: -6589829227278008151
+    second: thanhmau-PNG_36
+  - first:
+      213: -6410203971301072614
+    second: thanhmau-PNG_37
+  - first:
+      213: -2167962375607331348
+    second: thanhmau-PNG_38
+  - first:
+      213: 1303953115924346076
+    second: thanhmau-PNG_39
+  - first:
+      213: 8550915305073687886
+    second: thanhmau-PNG_40
+  - first:
+      213: -1515656084478357901
+    second: thanhmau-PNG_41
+  - first:
+      213: -6164587954159674587
+    second: thanhmau-PNG_42
+  - first:
+      213: 36740848532354333
+    second: thanhmau-PNG_43
+  - first:
+      213: -1179882855617002441
+    second: thanhmau-PNG_44
+  - first:
+      213: 5225717392955691989
+    second: thanhmau-PNG_45
+  - first:
+      213: 1012097316239358922
+    second: thanhmau-PNG_46
+  - first:
+      213: 7724169484243175694
+    second: thanhmau-PNG_47
+  - first:
+      213: -9041738204687927531
+    second: thanhmau-PNG_48
+  - first:
+      213: -8635636616374023644
+    second: thanhmau-PNG_49
+  - first:
+      213: 547790422608356500
+    second: thanhmau-PNG_50
+  - first:
+      213: 6039275861496475234
+    second: thanhmau-PNG_51
+  - first:
+      213: -7703698687079212891
+    second: thanhmau-PNG_52
+  - first:
+      213: 4944683638721142723
+    second: thanhmau-PNG_53
+  - first:
+      213: -2403327115762794859
+    second: thanhmau-PNG_54
+  - first:
+      213: 6149498430013690060
+    second: thanhmau-PNG_55
+  - first:
+      213: -799530509099103810
+    second: thanhmau-PNG_56
+  - first:
+      213: 7334782024083288244
+    second: thanhmau-PNG_57
+  - first:
+      213: -6074330034159187889
+    second: thanhmau-PNG_58
+  - first:
+      213: 2639388796888079607
+    second: thanhmau-PNG_59
+  - first:
+      213: 5853308236662460804
+    second: thanhmau-PNG_60
+  - first:
+      213: -8192277605041115456
+    second: thanhmau-PNG_61
+  - first:
+      213: 8633915957541753870
+    second: thanhmau-PNG_62
+  - first:
+      213: -6199122682450412710
+    second: thanhmau-PNG_63
+  - first:
+      213: -7613326976491480705
+    second: thanhmau-PNG_64
+  - first:
+      213: 746986536483701056
+    second: thanhmau-PNG_65
+  - first:
+      213: -6563066241427071783
+    second: thanhmau-PNG_66
+  - first:
+      213: 7371790076324555630
+    second: thanhmau-PNG_67
+  - first:
+      213: 3454922097399931232
+    second: thanhmau-PNG_68
+  - first:
+      213: -4158297412350221340
+    second: thanhmau-PNG_69
+  - first:
+      213: -8256038824307551098
+    second: thanhmau-PNG_70
+  - first:
+      213: 8915817519703363839
+    second: thanhmau-PNG_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thanhmau-PNG_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 400
+        width: 327
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624120742771a430800000000000000
+      internalID: 3792443359606424161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 400
+        width: 304
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0777b353b9a6fe720800000000000000
+      internalID: 2877635901758601072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 400
+        width: 307
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c365c78bfc3c3ed0800000000000000
+      internalID: -2433002647674592312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_30
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 299
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80115be8b221e6000800000000000000
+      internalID: 30982225725296904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_31
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 400
+        width: 292
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b8933c6820d1ec0800000000000000
+      internalID: -3594714149747586275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_32
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 400
+        width: 294
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac62a0cea8a42220800000000000000
+      internalID: 2460276764960779429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 332
+        width: 240
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc008da8f0b6ae080800000000000000
+      internalID: -9157389177806389041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 332
+        width: 249
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287bbb8ff3426a4c0800000000000000
+      internalID: -4276690938967115902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 103
+        width: 336
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc916aa60e4be4a0800000000000000
+      internalID: -6563066241427071783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_67
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 102
+        width: 304
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b231a540cdd4660800000000000000
+      internalID: 7371790076324555630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_68
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 102
+        width: 309
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061ab26b75952ff20800000000000000
+      internalID: 3454922097399931232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_69
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 102
+        width: 300
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3607af882ca46c0800000000000000
+      internalID: -4158297412350221340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_70
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 103
+        width: 294
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68490518e68ac6d80800000000000000
+      internalID: -8256038824307551098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanhmau-PNG_71
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 103
+        width: 295
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09f10dbc85bbb70800000000000000
+      internalID: 8915817519703363839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 38ece720842eab948b0f149be323e025
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thanhmau-PNG_0: 3538217558856759978
+      thanhmau-PNG_1: 4534316319990266941
+      thanhmau-PNG_10: -6413351017237812081
+      thanhmau-PNG_11: -1218675401147125400
+      thanhmau-PNG_12: -8083216386046108234
+      thanhmau-PNG_13: -41721160196490373
+      thanhmau-PNG_14: -6480751459959393311
+      thanhmau-PNG_15: -1238673393334467921
+      thanhmau-PNG_16: -4566108975571057253
+      thanhmau-PNG_17: -2909265228628826840
+      thanhmau-PNG_18: 3927123483621870928
+      thanhmau-PNG_19: 5677287593816156325
+      thanhmau-PNG_2: 5151575162091528092
+      thanhmau-PNG_20: 4740955182874168430
+      thanhmau-PNG_21: -8180716888553404251
+      thanhmau-PNG_22: 2042153495773717807
+      thanhmau-PNG_23: 1799935539191279071
+      thanhmau-PNG_24: -8841732722114440947
+      thanhmau-PNG_25: -2825596913079816982
+      thanhmau-PNG_26: 3530480040171944951
+      thanhmau-PNG_27: 3792443359606424161
+      thanhmau-PNG_28: 2877635901758601072
+      thanhmau-PNG_29: -2433002647674592312
+      thanhmau-PNG_3: 1320438356907444667
+      thanhmau-PNG_30: 30982225725296904
+      thanhmau-PNG_31: -3594714149747586275
+      thanhmau-PNG_32: 2460276764960779429
+      thanhmau-PNG_33: -9157389177806389041
+      thanhmau-PNG_34: -4276690938967115902
+      thanhmau-PNG_35: 4432768433649037809
+      thanhmau-PNG_36: -6589829227278008151
+      thanhmau-PNG_37: -6410203971301072614
+      thanhmau-PNG_38: -2167962375607331348
+      thanhmau-PNG_39: 1303953115924346076
+      thanhmau-PNG_4: 6896854432763377842
+      thanhmau-PNG_40: 8550915305073687886
+      thanhmau-PNG_41: -1515656084478357901
+      thanhmau-PNG_42: -6164587954159674587
+      thanhmau-PNG_43: 36740848532354333
+      thanhmau-PNG_44: -1179882855617002441
+      thanhmau-PNG_45: 5225717392955691989
+      thanhmau-PNG_46: 1012097316239358922
+      thanhmau-PNG_47: 7724169484243175694
+      thanhmau-PNG_48: -9041738204687927531
+      thanhmau-PNG_49: -8635636616374023644
+      thanhmau-PNG_5: -3411553110980173102
+      thanhmau-PNG_50: 547790422608356500
+      thanhmau-PNG_51: 6039275861496475234
+      thanhmau-PNG_52: -7703698687079212891
+      thanhmau-PNG_53: 4944683638721142723
+      thanhmau-PNG_54: -2403327115762794859
+      thanhmau-PNG_55: 6149498430013690060
+      thanhmau-PNG_56: -799530509099103810
+      thanhmau-PNG_57: 7334782024083288244
+      thanhmau-PNG_58: -6074330034159187889
+      thanhmau-PNG_59: 2639388796888079607
+      thanhmau-PNG_6: -6273361724503585485
+      thanhmau-PNG_60: 5853308236662460804
+      thanhmau-PNG_61: -8192277605041115456
+      thanhmau-PNG_62: 8633915957541753870
+      thanhmau-PNG_63: -6199122682450412710
+      thanhmau-PNG_64: -7613326976491480705
+      thanhmau-PNG_65: 746986536483701056
+      thanhmau-PNG_66: -6563066241427071783
+      thanhmau-PNG_67: 7371790076324555630
+      thanhmau-PNG_68: 3454922097399931232
+      thanhmau-PNG_69: -4158297412350221340
+      thanhmau-PNG_7: 516826045399362739
+      thanhmau-PNG_70: -8256038824307551098
+      thanhmau-PNG_71: 8915817519703363839
+      thanhmau-PNG_8: -6263305560282079848
+      thanhmau-PNG_9: 2116976007104786729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
